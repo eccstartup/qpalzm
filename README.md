@@ -7,7 +7,7 @@ mirror and squid3 configuration files
 apache2
 =======
 
-configuration files for 320 redirection for hackage mirror
+configuration files for 302 redirection for hackage2 mirror
 
 squid3
 ======
