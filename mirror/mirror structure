@@ -1,0 +1,204 @@
+/home/luyi/mirror/
+├── CPAN
+│   ├── authors
+│   ├── clpa
+│   ├── CPAN.html -> authors/id/J/JO/JONO/cpan.html
+│   ├── disclaimer.html
+│   ├── doc
+│   ├── ENDINGS
+│   ├── index.html
+│   ├── indices
+│   ├── ls-lR.gz -> indices/ls-lR.gz
+│   ├── MIRRORED.BY
+│   ├── MIRRORING.FROM
+│   ├── misc
+│   ├── modules
+│   ├── _modules
+│   ├── ports
+│   ├── README
+│   ├── README.html -> index.html
+│   ├── RECENT -> indices/RECENT-print
+│   ├── RECENT-1d.json
+│   ├── RECENT-1h.json
+│   ├── RECENT-1M.json
+│   ├── RECENT-1Q.json
+│   ├── RECENT-1W.json
+│   ├── RECENT-1Y.json
+│   ├── RECENT-6h.json
+│   ├── RECENT.html
+│   ├── RECENT.recent -> RECENT-1h.json
+│   ├── RECENT-Z.json
+│   ├── ROADMAP
+│   ├── ROADMAP.html
+│   ├── robots.txt
+│   ├── scripts
+│   ├── SITES
+│   ├── SITES.html
+│   └── src
+├── CTAN
+│   ├── biblio
+│   ├── bibliography -> biblio
+│   ├── CTAN.sites
+│   ├── digests -> info/digests
+│   ├── documentation -> info
+│   ├── dviware
+│   ├── FILES.byname
+│   ├── FILES.byname.gz
+│   ├── FILES.last07days
+│   ├── fonts
+│   ├── graphics
+│   ├── help
+│   ├── index.html
+│   ├── indexing
+│   ├── info
+│   ├── install
+│   ├── language
+│   ├── languages -> language
+│   ├── macros
+│   ├── README.mirrors -> CTAN.sites
+│   ├── README.structure
+│   ├── README.uploads
+│   ├── support
+│   ├── systems
+│   ├── tds
+│   ├── tds.zip
+│   ├── timestamp
+│   ├── upload.html
+│   ├── usergrps
+│   └── web
+├── hackage
+│   └── index.html
+├── hackage2
+│   ├── archive
+│   └── index.html
+├── how-to.html
+├── index.html
+├── ircs
+│   └── logs
+├── log -> /home/luyi/code/rsync-logs
+├── logs -> /home/luyi/code/rsync-logs/logs
+├── macports
+│   └── release
+├── pypi
+│   ├── last-modified
+│   ├── local-stats
+│   ├── packages
+│   ├── serversig
+│   └── simple
+├── rfc
+│   └── rfc
+├── sagemath
+│   ├── backup.html
+│   ├── devel
+│   ├── doc
+│   ├── index.html
+│   ├── linux
+│   ├── livecd
+│   ├── metalinks.html
+│   ├── osx
+│   ├── robots.txt
+│   ├── sageicon.png
+│   ├── sage_logo_new_l.png
+│   ├── solaris
+│   ├── spkg
+│   ├── src
+│   ├── torrents.html
+│   ├── win
+│   └── zzz
+├── tldp
+│   ├── 404.html
+│   ├── about.html
+│   ├── animated_favicon1.gif
+│   ├── authors
+│   ├── cgi-bin
+│   ├── contrib.html
+│   ├── copyright.html
+│   ├── COPYRIGHT.html
+│   ├── core.html
+│   ├── cvs-access.
+│   ├── date.html
+│   ├── date.sh
+│   ├── db2omf
+│   ├── devel.html
+│   ├── docs.html
+│   ├── downloads
+│   ├── FAQ
+│   ├── favicon.ico
+│   ├── google87251a58dc12ad19.html
+│   ├── g_search.html
+│   ├── guides.html
+│   ├── history.html
+│   ├── HOWTO
+│   ├── howto.d
+│   ├── images
+│   ├── index.html
+│   ├── intro.html
+│   ├── irc.html
+│   ├── jobdesc
+│   ├── LDP
+│   ├── LDP-COPYRIGHT.html
+│   ├── LDP-Manifesto.html
+│   ├── LDP-Team-19981212.htm
+│   ├── ldpwn
+│   ├── links
+│   ├── links.html
+│   ├── Linux-HOWTO-html.tar.gz
+│   ├── Linux-HOWTO-pdb.tar.gz
+│   ├── Linux-HOWTO-pdf.tar.gz
+│   ├── Linux-HOWTO-text.tar.gz
+│   ├── linux.html
+│   ├── logos
+│   ├── mailinfo.html
+│   ├── man1
+│   ├── manifesto_18Oct1999.html
+│   ├── manifesto_24Jul2003.html
+│   ├── manifesto.html
+│   ├── manpages
+│   ├── mirrors.html
+│   ├── older_unmaintained.html
+│   ├── pics
+│   ├── pluckerdb
+│   ├── pub
+│   ├── REF
+│   ├── robots.txt
+│   ├── search.html
+│   ├── sorted_howtos_full.html
+│   ├── sorted_howtos.html
+│   ├── sorted_howtos_quick.html
+│   ├── sorted_howtos_title.html
+│   ├── static.rsync
+│   ├── texi2db
+│   ├── timestamp.txt
+│   ├── tldp-redirect.php
+│   ├── vlist.html
+│   ├── wt2db
+│   └── y_key_2a88bb085bd55fcf.html
+├── tlpretest
+│   ├── 00_TIME.txt
+│   └── README
+└── vim
+    ├── amiga
+    ├── atari
+    ├── be
+    ├── beanie.gif
+    ├── doc
+    ├── extra
+    ├── farsi
+    ├── lwedchoice-200.gif
+    ├── mac
+    ├── messages
+    ├── os2
+    ├── patches
+    ├── pc
+    ├── qnx
+    ├── runtime
+    ├── stuff
+    ├── tools
+    ├── unix
+    ├── unreleased
+    ├── unstable
+    ├── vim_anim.gif
+    ├── vimlogo.gif
+    └── vms
+
+101 directories, 100 files

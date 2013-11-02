@@ -1,0 +1,437 @@
+
+#############################################################
+#                                                           #
+#  Hi,                                                      #
+#                                                           #
+#    This is the Opensource Mirror Hosted and Maintained    #
+#                                                           #
+#  by Information and Network Center of Xiamen University.  #
+#                                                           #
+#  Wish this mirror can help you enjoy free life easily :)  #                
+#                                                           # 
+#    The --checksum (-c) option is disabled to save the     #
+#                                                           #
+#  cpu usage. Thus, please remove the -c before syncing ^_^ #                
+#                                                           #
+#############################################################
+
+
+receiving incremental file list
+./
+MIRRORED.BY
+           0   0%    0.00kB/s    0:00:00         16800  12%   10.15kB/s    0:00:11         62166  45%   22.27kB/s    0:00:03        112566  83%   28.16kB/s    0:00:00        135162 100%   31.66kB/s    0:00:04 (xfer#1, to-check=1059/1064)
+MIRRORING.FROM
+           0   0%    0.00kB/s    0:00:00           335 100%    1.23kB/s    0:00:00 (xfer#2, to-check=1058/1064)
+RECENT-1W.json
+           0   0%    0.00kB/s    0:00:00         92466  19%   57.15kB/s    0:00:06        158002  32%   51.45kB/s    0:00:06        223538  45%   50.22kB/s    0:00:05        289074  59%   48.55kB/s    0:00:04        354610  72%   46.33kB/s    0:00:02        420146  86%   42.60kB/s    0:00:01        452914  93%   34.26kB/s    0:00:00        486372 100%   43.63kB/s    0:00:10 (xfer#3, to-check=1052/1064)
+RECENT-1d.json
+           0   0%    0.00kB/s    0:00:00         28621  41%    8.35kB/s    0:00:04         69491 100%   18.63kB/s    0:00:03 (xfer#4, to-check=1050/1064)
+RECENT-1h.json
+           0   0%    0.00kB/s    0:00:00          2032 100%    3.38kB/s    0:00:00 (xfer#5, to-check=1049/1064)
+RECENT-6h.json
+           0   0%    0.00kB/s    0:00:00         12245 100%   16.36kB/s    0:00:00 (xfer#6, to-check=1048/1064)
+RECENT.html
+           0   0%    0.00kB/s    0:00:00         12286   2%   11.84kB/s    0:00:38         84280  18%   40.72kB/s    0:00:09        178474  38%   52.03kB/s    0:00:05        328778  71%   73.29kB/s    0:00:01        414616  89%   84.08kB/s    0:00:00        462609 100%   75.65kB/s    0:00:05 (xfer#7, to-check=1046/1064)
+SITES.html
+           0   0%    0.00kB/s    0:00:00         49861 100%  170.25kB/s    0:00:00 (xfer#8, to-check=1041/1064)
+index.html
+           0   0%    0.00kB/s    0:00:00          8039 100%   18.13kB/s    0:00:00 (xfer#9, to-check=1039/1064)
+authors/
+authors/00whois.html
+           0   0%    0.00kB/s    0:00:00       1333140 100%    1.38MB/s    0:00:00 (xfer#10, to-check=1313/1358)
+authors/00whois.xml
+           0   0%    0.00kB/s    0:00:00          1384   0%    1.02kB/s    0:31:42       1933235 100%    1.29MB/s    0:00:01 (xfer#11, to-check=1312/1358)
+authors/01mailrc.txt.gz
+           0   0%    0.00kB/s    0:00:00         38500  17%   29.10kB/s    0:00:06        104036  48%   35.22kB/s    0:00:03        169572  78%   35.50kB/s    0:00:01        214666 100%   44.44kB/s    0:00:04 (xfer#12, to-check=1311/1358)
+authors/02STAMP
+           0   0%    0.00kB/s    0:00:00            40 100%    0.75kB/s    0:00:00 (xfer#13, to-check=1310/1358)
+authors/02authors.txt.gz
+           0   0%    0.00kB/s    0:00:00         78968  31%   58.16kB/s    0:00:03        144504  56%   46.03kB/s    0:00:02        177272  69%   38.50kB/s    0:00:02        210040  82%   32.55kB/s    0:00:01        254627 100%   35.57kB/s    0:00:06 (xfer#14, to-check=1309/1358)
+authors/RECENT-1W.yaml
+           0   0%    0.00kB/s    0:00:00         14347   5%   10.57kB/s    0:00:21        244894 100%  145.74kB/s    0:00:01 (xfer#15, to-check=1087/1358)
+authors/RECENT-1d.yaml
+           0   0%    0.00kB/s    0:00:00         35272 100%   43.27kB/s    0:00:00 (xfer#16, to-check=1085/1358)
+authors/RECENT-1h.yaml
+           0   0%    0.00kB/s    0:00:00          4831 100%    4.92kB/s    0:00:00 (xfer#17, to-check=1084/1358)
+authors/RECENT-6h.yaml
+           0   0%    0.00kB/s    0:00:00          8074 100%    6.16kB/s    0:00:01 (xfer#18, to-check=1083/1358)
+authors/id/A/AL/ALUCK/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          1574 100%    1.50MB/s    0:00:00 (xfer#19, to-check=1029/11488)
+authors/id/A/AN/ANAZAWA/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         56403 100%   53.79MB/s    0:00:00 (xfer#20, to-check=1828/13722)
+authors/id/A/AN/ANDREWF/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         15373 100%   14.66MB/s    0:00:00 (xfer#21, to-check=1223/13722)
+deleting authors/id/A/AR/ARFREITAS/Win32-SqlServer-DTS-0.09.tar.gz
+deleting authors/id/A/AR/ARFREITAS/Win32-SqlServer-DTS-0.09.readme
+deleting authors/id/A/AR/ARFREITAS/Win32-SqlServer-DTS-0.09.meta
+deleting authors/id/A/AR/ARFREITAS/Siebel-Srvrmgr-0.09.tar.gz
+deleting authors/id/A/AR/ARFREITAS/Siebel-Srvrmgr-0.09.readme
+deleting authors/id/A/AR/ARFREITAS/Siebel-Srvrmgr-0.09.meta
+authors/id/A/AR/ARFREITAS/
+authors/id/A/AR/ARFREITAS/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          4999 100%    4.77MB/s    0:00:00 (xfer#22, to-check=1217/16800)
+authors/id/B/BP/BPOSTLE/
+authors/id/B/BP/BPOSTLE/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         15868 100%   15.13MB/s    0:00:00 (xfer#23, to-check=1084/36678)
+authors/id/C/CI/CITRIN/
+authors/id/C/CI/CITRIN/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          1569 100%    1.50MB/s    0:00:00 (xfer#24, to-check=1089/45715)
+authors/id/D/DA/DANNY/
+authors/id/D/DA/DANNY/Business-PinPayment-0.02.meta
+           0   0%    0.00kB/s    0:00:00           238 100%  232.42kB/s    0:00:00 (xfer#25, to-check=1026/57753)
+authors/id/D/DA/DANNY/Business-PinPayment-0.02.readme
+           0   0%    0.00kB/s    0:00:00           857 100%   92.99kB/s    0:00:00 (xfer#26, to-check=1025/57753)
+authors/id/D/DA/DANNY/Business-PinPayment-0.02.tar.gz
+           0   0%    0.00kB/s    0:00:00          4422 100%   16.48kB/s    0:00:00 (xfer#27, to-check=1024/57753)
+authors/id/D/DA/DANNY/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          5773 100%   21.52kB/s    0:00:00 (xfer#28, to-check=1023/57753)
+authors/id/D/DH/
+authors/id/D/DH/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00           906 100%  884.77kB/s    0:00:00 (xfer#29, to-check=1070/64139)
+authors/id/D/DJ/DJUNKIM/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          2007 100%    1.91MB/s    0:00:00 (xfer#30, to-check=1869/67019)
+authors/id/D/DJ/DJZORT/
+authors/id/D/DJ/DJZORT/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         25478 100%   77.27kB/s    0:00:00 (xfer#31, to-check=1854/67019)
+authors/id/D/DJ/DJZORT/NetAddr-MAC-0.81.meta
+           0   0%    0.00kB/s    0:00:00          1301 100%    3.83kB/s    0:00:00 (xfer#32, to-check=1753/67019)
+authors/id/D/DJ/DJZORT/NetAddr-MAC-0.81.readme
+           0   0%    0.00kB/s    0:00:00          1220 100%    3.59kB/s    0:00:00 (xfer#33, to-check=1752/67019)
+authors/id/D/DJ/DJZORT/NetAddr-MAC-0.81.tar.gz
+           0   0%    0.00kB/s    0:00:00         18371 100%   17.52MB/s    0:00:00 (xfer#34, to-check=1751/67019)
+authors/id/D/DR/DRTECH/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         27330 100%   26.06MB/s    0:00:00 (xfer#35, to-check=1230/74411)
+authors/id/E/ET/ETHER/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         72185 100%   68.84MB/s    0:00:00 (xfer#36, to-check=1527/81638)
+authors/id/F/FA/FANGLY/
+authors/id/F/FA/FANGLY/Bio-Community-0.001000.meta
+           0   0%    0.00kB/s    0:00:00          5008 100%    4.78MB/s    0:00:00 (xfer#37, to-check=1313/83424)
+authors/id/F/FA/FANGLY/Bio-Community-0.001000.readme
+           0   0%    0.00kB/s    0:00:00          3086 100%   17.83kB/s    0:00:00 (xfer#38, to-check=1312/83424)
+authors/id/F/FA/FANGLY/Bio-Community-0.001000.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768  21%   15.11kB/s    0:00:07         98304  65%   21.79kB/s    0:00:02        150363 100%   28.96kB/s    0:00:05 (xfer#39, to-check=1311/83424)
+authors/id/F/FA/FANGLY/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         37410 100%   44.07kB/s    0:00:00 (xfer#40, to-check=1300/83424)
+authors/id/F/FL/FLAZAN/
+authors/id/F/FL/FLAZAN/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          1886 100%    1.80MB/s    0:00:00 (xfer#41, to-check=2302/86294)
+authors/id/H/HA/
+authors/id/H/HA/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          2328 100%    2.22MB/s    0:00:00 (xfer#42, to-check=1052/101078)
+authors/id/H/HA/HAMLETT/
+authors/id/H/HA/HAMLETT/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00           448 100%    0.96kB/s    0:00:00 (xfer#43, to-check=1008/101529)
+authors/id/I/IN/INGY/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00        311550 100%  148.56MB/s    0:00:00 (xfer#44, to-check=2672/114233)
+authors/id/J/JM/JMATES/
+authors/id/J/JM/JMATES/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         12850 100%   12.25MB/s    0:00:00 (xfer#45, to-check=1063/126627)
+authors/id/J/JO/JORISVR/
+authors/id/J/JO/JORISVR/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00           989 100%  965.82kB/s    0:00:00 (xfer#46, to-check=1640/130609)
+deleting authors/id/J/JS/JSIRACUSA/Rose-DB-0.772.tar.gz
+deleting authors/id/J/JS/JSIRACUSA/Rose-DB-0.772.meta
+authors/id/J/JS/JSIRACUSA/
+authors/id/J/JS/JSIRACUSA/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         84217 100%   80.32MB/s    0:00:00 (xfer#47, to-check=1417/132880)
+authors/id/K/KA/KAZEBURO/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00        174101 100%  166.04MB/s    0:00:00 (xfer#48, to-check=1833/139213)
+authors/id/K/KH/KHS/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         30320 100%   28.92MB/s    0:00:00 (xfer#49, to-check=1167/142462)
+authors/id/M/MA/MAKAMAKA/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         29050 100%   27.70MB/s    0:00:00 (xfer#50, to-check=1615/159054)
+deleting authors/id/M/MA/MARIOROY/MCE-1.502.tar.gz
+deleting authors/id/M/MA/MARIOROY/MCE-1.502.readme
+deleting authors/id/M/MA/MARIOROY/MCE-1.502.meta
+deleting authors/id/M/MA/MARIOROY/MCE-1.106.tar.gz
+deleting authors/id/M/MA/MARIOROY/MCE-1.106.readme
+deleting authors/id/M/MA/MARIOROY/MCE-1.106.meta
+authors/id/M/MA/MARIOROY/
+authors/id/M/MA/MARIOROY/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          3811 100%    3.63MB/s    0:00:00 (xfer#51, to-check=1042/161432)
+authors/id/M/MD/
+authors/id/M/MD/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00           978 100%  955.08kB/s    0:00:00 (xfer#52, to-check=1040/166299)
+authors/id/M/MI/MISHIN/
+authors/id/M/MI/MISHIN/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          5096 100%    4.86MB/s    0:00:00 (xfer#53, to-check=4446/174572)
+authors/id/N/NI/NICWOLFF/
+authors/id/N/NI/NICWOLFF/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         10995 100%   10.49MB/s    0:00:00 (xfer#54, to-check=1053/189189)
+authors/id/N/NI/NIERLEIN/
+authors/id/N/NI/NIERLEIN/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         10863 100%   35.13kB/s    0:00:00 (xfer#55, to-check=1051/189261)
+authors/id/N/NI/NIERLEIN/Webinject-1.82.meta
+           0   0%    0.00kB/s    0:00:00           866 100%    2.80kB/s    0:00:00 (xfer#56, to-check=1011/189261)
+authors/id/N/NI/NIERLEIN/Webinject-1.82.tar.gz
+           0   0%    0.00kB/s    0:00:00         63294 100%   65.90kB/s    0:00:00 (xfer#57, to-check=1010/189261)
+authors/id/N/NI/NIERLEIN/Webinject-1.84.meta
+           0   0%    0.00kB/s    0:00:00           875 100%    0.91kB/s    0:00:00 (xfer#58, to-check=1009/189261)
+authors/id/N/NI/NIERLEIN/Webinject-1.84.tar.gz
+           0   0%    0.00kB/s    0:00:00         63470 100%   93.77kB/s    0:00:00 (xfer#59, to-check=1008/189261)
+authors/id/P/PE/
+authors/id/P/PE/PETERSHAW/
+authors/id/P/PE/PETERSHAW/Told-Client/
+authors/id/P/PE/PETERSHAW/Told-Client/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00           985 100%  961.91kB/s    0:00:00 (xfer#60, to-check=1066/199453)
+authors/id/P/PE/PETERSHAW/Told-Client/Told-Client-0.001.meta
+           0   0%    0.00kB/s    0:00:00           629 100%   13.07kB/s    0:00:00 (xfer#61, to-check=1065/199453)
+authors/id/P/PE/PETERSHAW/Told-Client/Told-Client-0.001.readme
+           0   0%    0.00kB/s    0:00:00           388 100%    8.06kB/s    0:00:00 (xfer#62, to-check=1064/199453)
+authors/id/P/PE/PETERSHAW/Told-Client/Told-Client-0.001.tar.gz
+           0   0%    0.00kB/s    0:00:00         12492 100%   47.47kB/s    0:00:00 (xfer#63, to-check=1063/199453)
+authors/id/P/PJ/PJFL/file-mailalias/
+authors/id/P/PJ/PJFL/file-mailalias/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00           994 100%  970.70kB/s    0:00:00 (xfer#64, to-check=2596/204189)
+authors/id/P/PJ/PJFL/file-unixauth/
+authors/id/P/PJ/PJFL/file-unixauth/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00           992 100%  968.75kB/s    0:00:00 (xfer#65, to-check=2592/204189)
+authors/id/R/RE/RENEEB/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00        115509 100%  110.16MB/s    0:00:00 (xfer#66, to-check=1817/211448)
+authors/id/R/RO/ROBVANSON/
+authors/id/R/RO/ROBVANSON/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          2553 100%    2.43MB/s    0:00:00 (xfer#67, to-check=1178/218532)
+authors/id/R/RO/ROCKY/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         30842 100%   29.41MB/s    0:00:00 (xfer#68, to-check=1131/218536)
+authors/id/R/RS/RSAVAGE/
+authors/id/R/RS/RSAVAGE/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         46361 100%   44.21MB/s    0:00:00 (xfer#69, to-check=1235/220942)
+authors/id/R/RS/RSAVAGE/MarpaX-Languages-SVG-Parser-1.02.meta
+           0   0%    0.00kB/s    0:00:00          2583 100%   27.12kB/s    0:00:00 (xfer#70, to-check=1078/220942)
+authors/id/R/RS/RSAVAGE/MarpaX-Languages-SVG-Parser-1.02.readme
+           0   0%    0.00kB/s    0:00:00          1469 100%   15.26kB/s    0:00:00 (xfer#71, to-check=1077/220942)
+authors/id/R/RS/RSAVAGE/MarpaX-Languages-SVG-Parser-1.02.tgz
+           0   0%    0.00kB/s    0:00:00         32768  28%   23.31kB/s    0:00:03        113133 100%   53.12kB/s    0:00:02 (xfer#72, to-check=1076/220942)
+deleting authors/id/S/SG/SGLADKOV/Redis-JobQueue-1.06.tar.gz
+deleting authors/id/S/SG/SGLADKOV/Redis-JobQueue-1.06.readme
+deleting authors/id/S/SG/SGLADKOV/Redis-JobQueue-1.06.meta
+deleting authors/id/S/SG/SGLADKOV/Kafka-0.800_6.tar.gz
+authors/id/S/SG/SGLADKOV/
+authors/id/S/SG/SGLADKOV/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          5045 100%    4.81MB/s    0:00:00 (xfer#73, to-check=1199/230777)
+authors/id/S/SH/SHARYANTO/
+authors/id/S/SH/SHARYANTO/App-ParseCPANChanges-0.03.meta
+           0   0%    0.00kB/s    0:00:00          1249 100%    1.19MB/s    0:00:00 (xfer#74, to-check=1850/232682)
+authors/id/S/SH/SHARYANTO/App-ParseCPANChanges-0.03.readme
+           0   0%    0.00kB/s    0:00:00          2042 100%    1.95MB/s    0:00:00 (xfer#75, to-check=1849/232682)
+authors/id/S/SH/SHARYANTO/App-ParseCPANChanges-0.03.tar.gz
+           0   0%    0.00kB/s    0:00:00         11147 100%   39.87kB/s    0:00:00 (xfer#76, to-check=1848/232682)
+authors/id/S/SH/SHARYANTO/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00        174819 100%  392.46kB/s    0:00:00 (xfer#77, to-check=1771/232682)
+authors/id/S/SH/SHARYANTO/Parse-PhoneNumber-ID-0.09.meta
+           0   0%    0.00kB/s    0:00:00          1206 100%    1.57kB/s    0:00:00 (xfer#78, to-check=1423/232682)
+authors/id/S/SH/SHARYANTO/Parse-PhoneNumber-ID-0.09.readme
+           0   0%    0.00kB/s    0:00:00          4642 100%    6.03kB/s    0:00:00 (xfer#79, to-check=1422/232682)
+authors/id/S/SH/SHARYANTO/Parse-PhoneNumber-ID-0.09.tar.gz
+           0   0%    0.00kB/s    0:00:00         23516 100%   16.40kB/s    0:00:01 (xfer#80, to-check=1421/232682)
+authors/id/S/SH/SHLOMIF/
+authors/id/S/SH/SHLOMIF/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00        155238 100%  148.05MB/s    0:00:00 (xfer#81, to-check=1936/234945)
+authors/id/S/SH/SHLOMIF/Test-XML-Ordered-0.0.7.meta
+           0   0%    0.00kB/s    0:00:00           734 100%  716.80kB/s    0:00:00 (xfer#82, to-check=1590/234945)
+authors/id/S/SH/SHLOMIF/Test-XML-Ordered-0.0.7.readme
+           0   0%    0.00kB/s    0:00:00           259 100%  126.46kB/s    0:00:00 (xfer#83, to-check=1589/234945)
+authors/id/S/SH/SHLOMIF/Test-XML-Ordered-0.0.7.tar.gz
+           0   0%    0.00kB/s    0:00:00          9421 100%   25.14kB/s    0:00:00 (xfer#84, to-check=1588/234945)
+authors/id/S/SI/SIMPLIFY/
+authors/id/S/SI/SIMPLIFY/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          3324 100%    3.17MB/s    0:00:00 (xfer#85, to-check=1017/236647)
+authors/id/S/SI/SIMPLIFY/Net-Simplify-1.0.4.meta
+           0   0%    0.00kB/s    0:00:00          1166 100%   13.24kB/s    0:00:00 (xfer#86, to-check=1004/236647)
+authors/id/S/SI/SIMPLIFY/Net-Simplify-1.0.4.readme
+           0   0%    0.00kB/s    0:00:00          2068 100%   23.48kB/s    0:00:00 (xfer#87, to-check=1003/236647)
+authors/id/S/SI/SIMPLIFY/Net-Simplify-1.0.4.tar.gz
+           0   0%    0.00kB/s    0:00:00         17446 100%   33.47kB/s    0:00:00 (xfer#88, to-check=1002/236647)
+deleting authors/id/S/SR/SRI/Mojolicious-4.51.tar.gz
+deleting authors/id/S/SR/SRI/Mojolicious-4.51.readme
+deleting authors/id/S/SR/SRI/Mojolicious-4.51.meta
+authors/id/S/SR/SRI/
+authors/id/S/SR/SRI/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00          2702 100%    2.58MB/s    0:00:00 (xfer#89, to-check=1013/241976)
+authors/id/T/TE/TEAM/
+authors/id/T/TE/TEAM/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         87038 100%   83.01MB/s    0:00:00 (xfer#90, to-check=1423/249783)
+authors/id/T/TE/TEAM/HTTP-StreamParser-0.101.meta
+           0   0%    0.00kB/s    0:00:00          1478 100%   96.22kB/s    0:00:00 (xfer#91, to-check=1301/249783)
+authors/id/T/TE/TEAM/HTTP-StreamParser-0.101.readme
+           0   0%    0.00kB/s    0:00:00           294 100%   19.14kB/s    0:00:00 (xfer#92, to-check=1300/249783)
+authors/id/T/TE/TEAM/HTTP-StreamParser-0.101.tar.gz
+           0   0%    0.00kB/s    0:00:00         15715 100%   24.48kB/s    0:00:00 (xfer#93, to-check=1299/249783)
+authors/id/T/TE/TEAM/WebService-Amazon-DynamoDB-0.001.meta
+           0   0%    0.00kB/s    0:00:00          1634 100%    2.54kB/s    0:00:00 (xfer#94, to-check=1016/249783)
+authors/id/T/TE/TEAM/WebService-Amazon-DynamoDB-0.001.readme
+           0   0%    0.00kB/s    0:00:00           322 100%    0.50kB/s    0:00:00 (xfer#95, to-check=1015/249783)
+authors/id/T/TE/TEAM/WebService-Amazon-DynamoDB-0.001.tar.gz
+           0   0%    0.00kB/s    0:00:00         18790 100%   16.59kB/s    0:00:01 (xfer#96, to-check=1014/249783)
+authors/id/T/TE/TEAM/WebService-Amazon-Signature-0.001.meta
+           0   0%    0.00kB/s    0:00:00          1984 100%    1.75kB/s    0:00:01 (xfer#97, to-check=1013/249783)
+authors/id/T/TE/TEAM/WebService-Amazon-Signature-0.001.readme
+           0   0%    0.00kB/s    0:00:00           328 100%    0.29kB/s    0:00:01 (xfer#98, to-check=1012/249783)
+authors/id/T/TE/TEAM/WebService-Amazon-Signature-0.001.tar.gz
+           0   0%    0.00kB/s    0:00:00         30324 100%   28.92MB/s    0:00:00 (xfer#99, to-check=1011/249783)
+authors/id/U/UN/UNDEF/
+authors/id/U/UN/UNDEF/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         27962 100%   26.67MB/s    0:00:00 (xfer#100, to-check=1115/265563)
+authors/id/V/VO/VOJ/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00        117628 100%  112.18MB/s    0:00:00 (xfer#101, to-check=1749/268235)
+authors/id/Y/YT/YTURTLE/
+authors/id/Y/YT/YTURTLE/CHECKSUMS
+           0   0%    0.00kB/s    0:00:00         22217 100%   21.19MB/s    0:00:00 (xfer#102, to-check=1214/277873)
+authors/id/Y/YT/YTURTLE/Nephia-Setup-Plugin-Normal-0.04.meta
+           0   0%    0.00kB/s    0:00:00          2279 100%    4.32kB/s    0:00:00 (xfer#103, to-check=1140/277873)
+authors/id/Y/YT/YTURTLE/Nephia-Setup-Plugin-Normal-0.04.readme
+           0   0%    0.00kB/s    0:00:00           991 100%    1.82kB/s    0:00:00 (xfer#104, to-check=1139/277873)
+authors/id/Y/YT/YTURTLE/Nephia-Setup-Plugin-Normal-0.04.tar.gz
+           0   0%    0.00kB/s    0:00:00         11178 100%   13.36kB/s    0:00:00 (xfer#105, to-check=1138/277873)
+indices/RECENT-ls
+           0   0%    0.00kB/s    0:00:00        338187  59%  308.08kB/s    0:00:00        485040  85%  202.68kB/s    0:00:00        567292 100%  186.53kB/s    0:00:02 (xfer#106, to-check=1721/284721)
+indices/RECENT-print
+           0   0%    0.00kB/s    0:00:00         28660  14%   25.24kB/s    0:00:06        116990  59%   52.12kB/s    0:00:01        198273 100%   65.46kB/s    0:00:02 (xfer#107, to-check=1720/284721)
+indices/cpan-stats.json
+           0   0%    0.00kB/s    0:00:00           318 100%    0.41kB/s    0:00:00 (xfer#108, to-check=1719/284721)
+indices/du-k.gz
+           0   0%    0.00kB/s    0:00:00          5596   8%    5.17kB/s    0:00:12         28085  40%    9.05kB/s    0:00:04         69613 100%   18.56kB/s    0:00:03 (xfer#109, to-check=1718/284721)
+indices/find-ls.gz
+           0   0%    0.00kB/s    0:00:00         11928   0%    6.43kB/s    0:23:08        387882   4%  132.77kB/s    0:01:04        405781   4%   95.76kB/s    0:01:29       1411695  15%  263.85kB/s    0:00:28       1572614  17%  297.15kB/s    0:00:24       1978649  22%  283.95kB/s    0:00:24       2435182  27%  358.70kB/s    0:00:18       3333566  37%  333.90kB/s    0:00:16       3769023  42%  422.98kB/s    0:00:12       4455474  49%  497.38kB/s    0:00:09       4855217  54%  420.37kB/s    0:00:09       5228167  58%  311.59kB/s    0:00:11       5266812  58%  235.50kB/s    0:00:15       5478972  61%  163.40kB/s    0:00:21       5553820  62%  133.46kB/s    0:00:25       5840337  65%  106.41kB/s    0:00:29       6040232  67%  140.18kB/s    0:00:20       6633980  74%  188.52kB/s    0:00:12       7189231  80%  260.45kB/s    0:00:06       7374405  82%  260.36kB/s    0:00:06       7810321  87%  306.06kB/s    0:00:03       8225398  91%  283.08kB/s    0:00:02       8583549  95%  247.03kB/s    0:00:01       8944216 100%  265.09kB/s    0:00:32 (xfer#110, to-check=1717/284721)
+indices/ls-lR.gz
+           0   0%    0.00kB/s    0:00:00         11404   0%    9.23kB/s    0:09:22        428599   8%  175.86kB/s    0:00:27        624721  12%  178.91kB/s    0:00:25        786699  15%  170.50kB/s    0:00:25       1149162  22%  248.96kB/s    0:00:16       1507188  28%  242.47kB/s    0:00:15       1794464  34%  244.87kB/s    0:00:13       1885684  36%  232.05kB/s    0:00:14       2063338  39%  196.68kB/s    0:00:15       2220753  42%  153.76kB/s    0:00:19       2533269  48%  170.97kB/s    0:00:15       2884389  55%  221.36kB/s    0:00:10       3030550  58%  199.23kB/s    0:00:10       3306413  63%  206.59kB/s    0:00:09       3591771  69%  200.64kB/s    0:00:08       3925006  75%  187.25kB/s    0:00:06       4132460  79%  201.55kB/s    0:00:05       4668363  89%  255.38kB/s    0:00:02       4837224  92%  230.44kB/s    0:00:01       5033110  96%  226.81kB/s    0:00:00       5202009 100%  206.63kB/s    0:00:24 (xfer#111, to-check=1716/284721)
+indices/mirrors.json
+           0   0%    0.00kB/s    0:00:00        226696 100%  252.14kB/s    0:00:00 (xfer#112, to-check=1715/284721)
+indices/timestamp.txt
+           0   0%    0.00kB/s    0:00:00            40 100%    0.04kB/s    0:00:00 (xfer#113, to-check=1714/284721)
+misc/cpan-faq.html
+           0   0%    0.00kB/s    0:00:00         52537 100%   56.82kB/s    0:00:00 (xfer#114, to-check=1710/284721)
+modules/
+modules/01modules.index.html
+           0   0%    0.00kB/s    0:00:00        558624  11%  521.54kB/s    0:00:08       4902102 100%    2.92MB/s    0:00:01 (xfer#115, to-check=1661/284721)
+modules/01modules.mtime.html
+           0   0%    0.00kB/s    0:00:00         28076 100%   45.62kB/s    0:00:00 (xfer#116, to-check=1660/284721)
+modules/01modules.mtime.rss
+           0   0%    0.00kB/s    0:00:00         61455 100%   67.74kB/s    0:00:00 (xfer#117, to-check=1659/284721)
+modules/02STAMP
+           0   0%    0.00kB/s    0:00:00            32 100%    0.04kB/s    0:00:00 (xfer#118, to-check=1658/284721)
+modules/02packages.details.txt
+           0   0%    0.00kB/s    0:00:00       1367407  12%    1.26MB/s    0:00:07      11392850 100%    5.82MB/s    0:00:01 (xfer#119, to-check=1657/284721)
+modules/02packages.details.txt.gz
+           0   0%    0.00kB/s    0:00:00        186039  12%  164.42kB/s    0:00:07       1258828  85%  552.26kB/s    0:00:00       1468144 100%  573.95kB/s    0:00:02 (xfer#120, to-check=1656/284721)
+modules/06perms.txt
+           0   0%    0.00kB/s    0:00:00       9786674 100%   10.89MB/s    0:00:00 (xfer#121, to-check=1652/284721)
+modules/06perms.txt.gz
+           0   0%    0.00kB/s    0:00:00          2420   0%    1.91kB/s    0:12:48       1469063 100%  792.61kB/s    0:00:01 (xfer#122, to-check=1651/284721)
+modules/07mirror.json
+           0   0%    0.00kB/s    0:00:00         10198 100%   10.38kB/s    0:00:00 (xfer#123, to-check=1650/284721)
+modules/07mirror.yml
+           0   0%    0.00kB/s    0:00:00          8947 100%    7.91kB/s    0:00:01 (xfer#124, to-check=1649/284721)
+modules/RECENT-1W.yaml
+           0   0%    0.00kB/s    0:00:00          1399  93%    1.24kB/s    0:00:00          1503 100%    1.33kB/s    0:00:01 (xfer#125, to-check=1647/284721)
+modules/RECENT-1d.yaml
+           0   0%    0.00kB/s    0:00:00          1354 100%    1.29MB/s    0:00:00 (xfer#126, to-check=1646/284721)
+modules/RECENT-1h.yaml
+           0   0%    0.00kB/s    0:00:00          1168 100%    1.11MB/s    0:00:00 (xfer#127, to-check=1645/284721)
+modules/RECENT-Z.yaml
+           0   0%    0.00kB/s    0:00:00          1782 100%   38.67kB/s    0:00:00 (xfer#128, to-check=1644/284721)
+deleting modules/by-category/03_Development_Support/Test/Mojolicious-4.51.tar.gz
+deleting modules/by-category/03_Development_Support/Test/Mojolicious-4.51.readme
+modules/by-category/03_Development_Support/Test/
+modules/by-category/03_Development_Support/Test/Test-XML-Ordered-0.0.7.readme -> ../../../../authors/id/S/SH/SHLOMIF/Test-XML-Ordered-0.0.7.readme
+modules/by-category/03_Development_Support/Test/Test-XML-Ordered-0.0.7.tar.gz -> ../../../../authors/id/S/SH/SHLOMIF/Test-XML-Ordered-0.0.7.tar.gz
+modules/by-category/05_Networking_Devices_IPC/Net/
+modules/by-category/05_Networking_Devices_IPC/Net/Net-Simplify-1.0.4.readme -> ../../../../authors/id/S/SI/SIMPLIFY/Net-Simplify-1.0.4.readme
+modules/by-category/05_Networking_Devices_IPC/Net/Net-Simplify-1.0.4.tar.gz -> ../../../../authors/id/S/SI/SIMPLIFY/Net-Simplify-1.0.4.tar.gz
+modules/by-category/05_Networking_Devices_IPC/NetAddr/
+modules/by-category/05_Networking_Devices_IPC/NetAddr/NetAddr-MAC-0.81.readme -> ../../../../authors/id/D/DJ/DJZORT/NetAddr-MAC-0.81.readme
+modules/by-category/05_Networking_Devices_IPC/NetAddr/NetAddr-MAC-0.81.tar.gz -> ../../../../authors/id/D/DJ/DJZORT/NetAddr-MAC-0.81.tar.gz
+deleting modules/by-category/07_Database_Interfaces/Redis/Redis-JobQueue-1.06.tar.gz
+deleting modules/by-category/07_Database_Interfaces/Redis/Redis-JobQueue-1.06.readme
+modules/by-category/07_Database_Interfaces/Redis/
+modules/by-category/11_String_Lang_Text_Proc/MarpaX/
+modules/by-category/11_String_Lang_Text_Proc/MarpaX/MarpaX-Languages-SVG-Parser-1.02.readme -> ../../../../authors/id/R/RS/RSAVAGE/MarpaX-Languages-SVG-Parser-1.02.readme
+modules/by-category/11_String_Lang_Text_Proc/MarpaX/MarpaX-Languages-SVG-Parser-1.02.tgz -> ../../../../authors/id/R/RS/RSAVAGE/MarpaX-Languages-SVG-Parser-1.02.tgz
+modules/by-category/11_String_Lang_Text_Proc/Parse/
+modules/by-category/11_String_Lang_Text_Proc/Parse/Parse-PhoneNumber-ID-0.09.readme -> ../../../../authors/id/S/SH/SHARYANTO/Parse-PhoneNumber-ID-0.09.readme
+modules/by-category/11_String_Lang_Text_Proc/Parse/Parse-PhoneNumber-ID-0.09.tar.gz -> ../../../../authors/id/S/SH/SHARYANTO/Parse-PhoneNumber-ID-0.09.tar.gz
+modules/by-category/11_String_Lang_Text_Proc/XML/
+modules/by-category/11_String_Lang_Text_Proc/XML/NICWOLFF -> ../../../../authors/id/N/NI/NICWOLFF
+modules/by-category/11_String_Lang_Text_Proc/XML/XML-FromArrayref-1.01.readme -> ../../../../authors/id/N/NI/NICWOLFF/XML-FromArrayref-1.01.readme
+modules/by-category/11_String_Lang_Text_Proc/XML/XML-FromArrayref-1.01.tar.gz -> ../../../../authors/id/N/NI/NICWOLFF/XML-FromArrayref-1.01.tar.gz
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/App/
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/App/App-ParseCPANChanges-0.03.readme -> ../../../../authors/id/S/SH/SHARYANTO/App-ParseCPANChanges-0.03.readme
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/App/App-ParseCPANChanges-0.03.tar.gz -> ../../../../authors/id/S/SH/SHARYANTO/App-ParseCPANChanges-0.03.tar.gz
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/HTTP/
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/HTTP/HTTP-StreamParser-0.101.readme -> ../../../../authors/id/T/TE/TEAM/HTTP-StreamParser-0.101.readme
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/HTTP/HTTP-StreamParser-0.101.tar.gz -> ../../../../authors/id/T/TE/TEAM/HTTP-StreamParser-0.101.tar.gz
+deleting modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/Mojolicious/Mojolicious-4.51.tar.gz
+deleting modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/Mojolicious/Mojolicious-4.51.readme
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/Mojolicious/
+deleting modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/Rose/Rose-DB-0.772.tar.gz
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/Rose/
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/WebService/
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/WebService/TEAM -> ../../../../authors/id/T/TE/TEAM
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/WebService/WebService-Amazon-DynamoDB-0.001.readme -> ../../../../authors/id/T/TE/TEAM/WebService-Amazon-DynamoDB-0.001.readme
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/WebService/WebService-Amazon-DynamoDB-0.001.tar.gz -> ../../../../authors/id/T/TE/TEAM/WebService-Amazon-DynamoDB-0.001.tar.gz
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/WebService/WebService-Amazon-Signature-0.001.readme -> ../../../../authors/id/T/TE/TEAM/WebService-Amazon-Signature-0.001.readme
+modules/by-category/15_World_Wide_Web_HTML_HTTP_CGI/WebService/WebService-Amazon-Signature-0.001.tar.gz -> ../../../../authors/id/T/TE/TEAM/WebService-Amazon-Signature-0.001.tar.gz
+deleting modules/by-category/22_Microsoft_Windows_Modules/Win32/Win32-SqlServer-DTS-0.09.tar.gz
+deleting modules/by-category/22_Microsoft_Windows_Modules/Win32/Win32-SqlServer-DTS-0.09.readme
+modules/by-category/22_Microsoft_Windows_Modules/Win32/
+modules/by-category/23_Miscellaneous_Modules/Bio/
+modules/by-category/23_Miscellaneous_Modules/Bio/Bio-Community-0.001000.readme -> ../../../../authors/id/F/FA/FANGLY/Bio-Community-0.001000.readme
+modules/by-category/23_Miscellaneous_Modules/Bio/Bio-Community-0.001000.tar.gz -> ../../../../authors/id/F/FA/FANGLY/Bio-Community-0.001000.tar.gz
+modules/by-category/23_Miscellaneous_Modules/Business/
+modules/by-category/23_Miscellaneous_Modules/Business/Business-PinPayment-0.02.readme -> ../../../../authors/id/D/DA/DANNY/Business-PinPayment-0.02.readme
+modules/by-category/23_Miscellaneous_Modules/Business/Business-PinPayment-0.02.tar.gz -> ../../../../authors/id/D/DA/DANNY/Business-PinPayment-0.02.tar.gz
+deleting modules/by-category/24_Commercial_Software_Interfaces/Siebel/Siebel-Srvrmgr-0.09.tar.gz
+deleting modules/by-category/24_Commercial_Software_Interfaces/Siebel/Siebel-Srvrmgr-0.09.readme
+modules/by-category/24_Commercial_Software_Interfaces/Siebel/
+modules/by-module/App/
+modules/by-module/App/App-ParseCPANChanges-0.03.readme -> ../../../authors/id/S/SH/SHARYANTO/App-ParseCPANChanges-0.03.readme
+modules/by-module/App/App-ParseCPANChanges-0.03.tar.gz -> ../../../authors/id/S/SH/SHARYANTO/App-ParseCPANChanges-0.03.tar.gz
+modules/by-module/Bio/
+modules/by-module/Bio/Bio-Community-0.001000.readme -> ../../../authors/id/F/FA/FANGLY/Bio-Community-0.001000.readme
+modules/by-module/Bio/Bio-Community-0.001000.tar.gz -> ../../../authors/id/F/FA/FANGLY/Bio-Community-0.001000.tar.gz
+modules/by-module/Business/
+modules/by-module/Business/Business-PinPayment-0.02.readme -> ../../../authors/id/D/DA/DANNY/Business-PinPayment-0.02.readme
+modules/by-module/Business/Business-PinPayment-0.02.tar.gz -> ../../../authors/id/D/DA/DANNY/Business-PinPayment-0.02.tar.gz
+modules/by-module/HTTP/
+modules/by-module/HTTP/HTTP-StreamParser-0.101.readme -> ../../../authors/id/T/TE/TEAM/HTTP-StreamParser-0.101.readme
+modules/by-module/HTTP/HTTP-StreamParser-0.101.tar.gz -> ../../../authors/id/T/TE/TEAM/HTTP-StreamParser-0.101.tar.gz
+modules/by-module/MarpaX/
+modules/by-module/MarpaX/MarpaX-Languages-SVG-Parser-1.02.readme -> ../../../authors/id/R/RS/RSAVAGE/MarpaX-Languages-SVG-Parser-1.02.readme
+modules/by-module/MarpaX/MarpaX-Languages-SVG-Parser-1.02.tgz -> ../../../authors/id/R/RS/RSAVAGE/MarpaX-Languages-SVG-Parser-1.02.tgz
+deleting modules/by-module/Mojolicious/Mojolicious-4.51.tar.gz
+deleting modules/by-module/Mojolicious/Mojolicious-4.51.readme
+modules/by-module/Mojolicious/
+modules/by-module/Net/
+modules/by-module/Net/Net-Simplify-1.0.4.readme -> ../../../authors/id/S/SI/SIMPLIFY/Net-Simplify-1.0.4.readme
+modules/by-module/Net/Net-Simplify-1.0.4.tar.gz -> ../../../authors/id/S/SI/SIMPLIFY/Net-Simplify-1.0.4.tar.gz
+modules/by-module/NetAddr/
+modules/by-module/NetAddr/NetAddr-MAC-0.81.readme -> ../../../authors/id/D/DJ/DJZORT/NetAddr-MAC-0.81.readme
+modules/by-module/NetAddr/NetAddr-MAC-0.81.tar.gz -> ../../../authors/id/D/DJ/DJZORT/NetAddr-MAC-0.81.tar.gz
+modules/by-module/Parse/
+modules/by-module/Parse/Parse-PhoneNumber-ID-0.09.readme -> ../../../authors/id/S/SH/SHARYANTO/Parse-PhoneNumber-ID-0.09.readme
+modules/by-module/Parse/Parse-PhoneNumber-ID-0.09.tar.gz -> ../../../authors/id/S/SH/SHARYANTO/Parse-PhoneNumber-ID-0.09.tar.gz
+deleting modules/by-module/Redis/Redis-JobQueue-1.06.tar.gz
+deleting modules/by-module/Redis/Redis-JobQueue-1.06.readme
+deleting modules/by-module/Rose/Rose-DB-0.772.tar.gz
+modules/by-module/Redis/
+modules/by-module/Rose/
+deleting modules/by-module/Siebel/Siebel-Srvrmgr-0.09.tar.gz
+deleting modules/by-module/Siebel/Siebel-Srvrmgr-0.09.readme
+modules/by-module/Siebel/
+deleting modules/by-module/Test/Mojolicious-4.51.tar.gz
+deleting modules/by-module/Test/Mojolicious-4.51.readme
+modules/by-module/Test/
+modules/by-module/Test/Test-XML-Ordered-0.0.7.readme -> ../../../authors/id/S/SH/SHLOMIF/Test-XML-Ordered-0.0.7.readme
+modules/by-module/Test/Test-XML-Ordered-0.0.7.tar.gz -> ../../../authors/id/S/SH/SHLOMIF/Test-XML-Ordered-0.0.7.tar.gz
+deleting modules/by-module/Win32/Win32-SqlServer-DTS-0.09.tar.gz
+deleting modules/by-module/Win32/Win32-SqlServer-DTS-0.09.readme
+modules/by-module/WebService/
+modules/by-module/WebService/TEAM -> ../../../authors/id/T/TE/TEAM
+modules/by-module/WebService/WebService-Amazon-DynamoDB-0.001.readme -> ../../../authors/id/T/TE/TEAM/WebService-Amazon-DynamoDB-0.001.readme
+modules/by-module/WebService/WebService-Amazon-DynamoDB-0.001.tar.gz -> ../../../authors/id/T/TE/TEAM/WebService-Amazon-DynamoDB-0.001.tar.gz
+modules/by-module/WebService/WebService-Amazon-Signature-0.001.readme -> ../../../authors/id/T/TE/TEAM/WebService-Amazon-Signature-0.001.readme
+modules/by-module/WebService/WebService-Amazon-Signature-0.001.tar.gz -> ../../../authors/id/T/TE/TEAM/WebService-Amazon-Signature-0.001.tar.gz
+modules/by-module/Win32/
+
+sent 169624 bytes  received 23934589 bytes  30300.71 bytes/sec
+total size is 15340733159  speedup is 636.43

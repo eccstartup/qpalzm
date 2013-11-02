@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome</title>
+</head>
+<body>
+	<h1 align=center>Welcome to this personal mirror!</h1>
+	<p>The mirrors are listed here.</p>
+	<p>To see how to use these mirror, you can follow <a href="how-to.html">this</a> link.</p>
+	<p>And <a href="log">log files</a> are <a href="logs">here</a>.</p>
+	<ol>
+		<li><a href="sagemath">sagemath</a>:an Open Source Mathematics Software.</li>
+		<li><a href="CPAN">CPAN</a>:The Comprehensive Perl Archive Network.</li>
+		<li><a href="CTAN">CTAN</a>:The Comprehensive TeX Archive Network.</li>
+		<li><a href="tldp">tldp</a>:The Linux Docomentation Project.</li>
+		<!--<li><a href="apache">apache</a>:Apache Software Foundation.</li>-->
+		<li><a href="hackage2">hackage.haskell.org</a>:packages for Haskell.</li>
+		<li><a href="vim">vim</a>:an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi'.</li>
+		<li><a href="pypi">pypi</a>:Python Package Index(e.pypi.python.org).</li>
+		<li><a href="tlpretest">tlpretest</a>:Testing TeX Live before release.</li>
+		<li><a href="macports">macports</a>:An open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system.</li>
+		<li><a href="ircs/logs">irc-logs</a>:A few part of the IRC logs, Haskell included. Start from 2013.</li>
+		<li><a href="rfc">rfc</a>:rfc.</li>
+	</ol>
+	<p>logs added by hand:</p>
+	<ol>
+		<li>2013-05-08:sagemath updated to 5.9.</li>
+		<li>2013-05-10:<ul>
+				<li>Planning to mirror hackage.haskell.org with lftp.</li>
+				<li>Very glad to see <a href="http://lab.mirrors.ustc.edu.cn/">this</a> mirror.</li>
+			</ul>
+		</li>
+		<li>2013-05-11:hackage.haskell.org almost done with a version of 2013-05-09.</li>
+		<li>2013-05-12:It seems everything is up to date.</li>
+		<li>2013-05-13:total size:
+			<ul>
+				<li>sagemath:23682794229,<b>22.06G</b></li>
+				<li>tldp:3724095836,<b>3.47G</b></li>
+				<li>CTAN:25512249930,<b>23.76G</b></li>
+				<li>CPAN:13777879640,<b>12.83G</b></li>
+				<li>apache:66473975826,<b>61.91G</b></li>
+				<li>hackage:almost 27G</li>
+				<li>TOTAL:133170995461+27G,<b>151.025G</b></li>
+			</ul>
+		</li>
+		<li>2013-05-13:Adding vim...</li>
+		<li>2013-05-13:Added vim,5658322524,<b>5.27G</b></li>
+		<li>2013-05-18:Deciding whether openwrt is able to added here.</li>
+		<li>2013-05-19:Droped openwrt.</li>
+		<li>2013-05-19:Pypi(8) and tlpretest(9) are unavailable.</li>
+		<li>2013-05-20:Tlpretest(9) done, very little files.</li>
+		<li>2013-05-20:USTC is not a welcomed mirror for me to rsync.</li>
+		<li>2013-05-20:Tlpretest(9) is not easy to rsync from ctex.org, deciding to remove.</li>
+		<li>2013-05-20:Pypi(8) is one the way...</li>
+		<li>2013-05-21:Pipy(8) finished.</li>
+		<li>2013-05-22:Rsync from last night, and everything works well.</li>
+		<li>2013-05-23:Everything finished before 5:00, and planning to re rsync pypi at 05:46.</li>
+		<li>2013-05-25:Adding log files for these mirrors, not yet test.</li>
+		<li>2013-05-26:Added logs and backup-logs for rsync mirrors.</li>
+		<li>2013-05-26:Modified a small mistake for log scripts.</li>
+		<li>2013-05-27:Computer crashed due to power failure, hackage almost rsynced, and start again at 10 am.</li>
+		<li>2013-05-27:Rsync suddenly came to a stop because a SB turned off the power, and it restarted at 23:00.</li>
+		<li>2013-05-29:Added cron schedules. All rsync jobs start at 22:00 every night, and at 08:00 next morning log them all. NOT tested yet.</li>
+		<li>2013-05-30:Cron jobs work fine now.</li>
+		<li>2013-05-30:Mirror size:
+			<ul>
+				<li>apache:67074804954</li>
+				<li>CPAN:14096836749</li>
+				<li>CTAN:25421459645</li>
+				<li>pypi:52416649333</li>
+				<li>sagemath:23961492633</li>
+				<li>tldp:3724095836</li>
+				<li>tlpretest:5008530054</li>
+			</ul>
+		</li>
+		<li>2013-05-31:Hackage, and tlpretest cannot connect to the server.</li>
+		<li>2013-06-03:Find a bug of haskell hackage mirror, hoping to fix it.</li>
+		<li>2013-06-05:Added redirection 302 rules for /etc/apache2/mods-available/alias.conf and the hackage mirror can be used now!</li>
+		<li>2013-06-13:It works fine after a long leave.</li>
+		<li>2013-06-20:Waiting for texlive update someday.</li>
+		<li>2013-06-21:Change CTAN rsync mirror from BJTU to TUNA because the later has updated to texlive 2013.</li>
+		<li>2013-06-22:CTAN is working.</li>
+		<li>2013-06-26:pypi did not rsync well.</li>
+		<li>2013-07-03:CPAN did not update for days because BJTU mirror is down. Other mirrors are working.</li>
+		<li>2013-07-03:rsyncing CPAN from xmu in Fujian.</li>
+		<li>2013-07-03:Done rsyncing CPAN at 14:24.</li>
+		<li>2013-07-07:Deciding to remove apache mirror due to disk space shortage.</li>
+		<li>2013-07-11:Say goodbye to apache mirror. Added macports mirror, unknown how to use the pachages. Adding PETSc mirror.</li>
+		<li>2013-07-19:Macports can be used with some confifuration. <a href="https://groups.google.com/forum/#!topic/ustc_lug/oYZrE8UjRug">See here for details.</a></li>
+		<li>2013-07-28:Having macports packages removed.</li>
+		<li>2013-10-07:Added some irc logs.</li>
+		<li>2013-10-15:Added back hackage mirror!</li>
+	</ol>
+	<br>
+	<p><b>Contact me at <a href="mailto:zhiwudazhanjiangshi@gmail.com">zhiwudazhanjiangshi AT gmail DOT com</a></b></p>
+</body>
+</html>

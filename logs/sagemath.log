@@ -1,0 +1,28 @@
+Open Source Mirror of Tsinghua University
+
+This mirror site is supported by Network Research Center of Tsinghua University
+at Tsinghua University, Beijing, PRC, and maintained by Tsinghua University
+Network Administrators (TUNA). 
+
+Please email questions or suggestions to 
+thu-opensource-mirror-admin@googlegroups.com
+
+The site contains software repositories of several GNU/Linux distributions, and
+some other open source softwares.
+
+Currently, we have 2 IPs:
+    166.111.8.205 -- TUNET (Tsinghua University Network)
+    2001:da8:200:102:250:56ff:febf:5bf8 -- TUNET (Tsinghua University Network)
+
+The bandwidth is currently limited to 100Mbps. Note that we are in a process
+of migration therefor the IP addresses may change anytime. Always access this
+site with the domain name mirrors.tuna.tsinghua.edu.cn.
+
+You can check out modules listed below.
+======================================
+
+
+receiving incremental file list
+
+sent 390 bytes  received 86463 bytes  422.64 bytes/sec
+total size is 26288707575  speedup is 302680.48

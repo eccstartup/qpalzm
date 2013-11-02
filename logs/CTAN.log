@@ -1,0 +1,46 @@
+Open Source Mirror of Tsinghua University
+
+This mirror site is supported by Network Research Center of Tsinghua University
+at Tsinghua University, Beijing, PRC, and maintained by Tsinghua University
+Network Administrators (TUNA). 
+
+Please email questions or suggestions to 
+thu-opensource-mirror-admin@googlegroups.com
+
+The site contains software repositories of several GNU/Linux distributions, and
+some other open source softwares.
+
+Currently, we have 2 IPs:
+    166.111.8.205 -- TUNET (Tsinghua University Network)
+    2001:da8:200:102:250:56ff:febf:5bf8 -- TUNET (Tsinghua University Network)
+
+The bandwidth is currently limited to 100Mbps. Note that we are in a process
+of migration therefor the IP addresses may change anytime. Always access this
+site with the domain name mirrors.tuna.tsinghua.edu.cn.
+
+You can check out modules listed below.
+======================================
+
+
+receiving incremental file list
+./
+FILES.byname
+           0   0%    0.00kB/s    0:00:00       4115056  31%    3.55MB/s    0:00:02       7322244  55%  486.64kB/s    0:00:12      12984459  98%  807.45kB/s    0:00:00      13222834 100%  822.17kB/s    0:00:15 (xfer#1, to-check=1044/1047)
+FILES.byname.gz
+           0   0%    0.00kB/s    0:00:00         41888   2%   31.32kB/s    0:00:47        288286  18%   71.38kB/s    0:00:17        353822  23%   60.72kB/s    0:00:19        386590  25%   53.17kB/s    0:00:21        419358  27%   43.71kB/s    0:00:25        481710  31%   27.60kB/s    0:00:37        526798  34%   25.08kB/s    0:00:39        592334  38%   29.02kB/s    0:00:32        657870  43%   36.65kB/s    0:00:23        690638  45%   31.10kB/s    0:00:26        723406  47%   23.28kB/s    0:00:34        741680  48%   17.64kB/s    0:00:44        811680  53%   19.16kB/s    0:00:37        844448  55%   19.00kB/s    0:00:35        909984  59%   29.52kB/s    0:00:20        975520  64%   34.74kB/s    0:00:15       1008288  66%   31.88kB/s    0:00:16       1072856  70%   34.69kB/s    0:00:13       1138392  74%   36.61kB/s    0:00:10       1205912  79%   41.73kB/s    0:00:07       1293349  84%   48.86kB/s    0:00:04       1358885  89%   53.02kB/s    0:00:03       1450549  95%   52.32kB/s    0:00:01       1516085  99%   17.91kB/s    0:00:00       1524173 100%   29.09kB/s    0:00:51 (xfer#2, to-check=1043/1047)
+FILES.last07days
+           0   0%    0.00kB/s    0:00:00         75974 100%  484.92kB/s    0:00:00 (xfer#3, to-check=1042/1047)
+timestamp
+           0   0%    0.00kB/s    0:00:00           186 100%  181.64kB/s    0:00:00 (xfer#4, to-check=1032/1047)
+info/
+deleting language/korean/kotex-utf/kotex.sty
+deleting language/korean/kotex-utils/hanjahook.sty
+deleting language/korean/kotex-utils/hangulhook.sty
+deleting macros/latex/contrib/substitutefont/substitutefont.sty.txt
+deleting macros/latex/contrib/substitutefont/greek-times-bodoni.tex
+deleting macros/latex/contrib/substitutefont/greek-times-bodoni.pdf
+deleting systems/mac/mactex/MacTeXtras-20131025.zip.md5
+deleting systems/mac/mactex/MacTeXtras-20131025.zip
+
+sent 42409 bytes  received 5128434 bytes  781.86 bytes/sec
+total size is 24606966865  speedup is 4758.79

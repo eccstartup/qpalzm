@@ -1,0 +1,931 @@
+Open Source Mirror of Tsinghua University
+
+This mirror site is supported by Network Research Center of Tsinghua University
+at Tsinghua University, Beijing, PRC, and maintained by Tsinghua University
+Network Administrators (TUNA). 
+
+Please email questions or suggestions to 
+thu-opensource-mirror-admin@googlegroups.com
+
+The site contains software repositories of several GNU/Linux distributions, and
+some other open source softwares.
+
+Currently, we have 2 IPs:
+    166.111.8.205 -- TUNET (Tsinghua University Network)
+    2001:da8:200:102:250:56ff:febf:5bf8 -- TUNET (Tsinghua University Network)
+
+The bandwidth is currently limited to 100Mbps. Note that we are in a process
+of migration therefor the IP addresses may change anytime. Always access this
+site with the domain name mirrors.tuna.tsinghua.edu.cn.
+
+You can check out modules listed below.
+======================================
+
+
+receiving incremental file list
+./
+last-modified
+           0   0%    0.00kB/s    0:00:00            18 100%   17.58kB/s    0:00:00 (xfer#1, to-check=1005/1007)
+packages/2.6/i/ipkg/
+packages/2.6/i/ipkg/ipkg-0.10.0-py2.6.egg
+           0   0%    0.00kB/s    0:00:00         58011 100%  106.89kB/s    0:00:00 (xfer#2, to-check=1003/22987)
+packages/2.7/g/
+packages/2.7/g/gu-django-multihost/
+packages/2.7/i/ipkg/
+packages/2.7/i/ipkg/ipkg-0.10.0-py2.7.egg
+           0   0%    0.00kB/s    0:00:00         57670 100%  156.88kB/s    0:00:00 (xfer#3, to-check=1001/33585)
+packages/2.7/k/kpages/
+packages/2.7/k/kpages/kpages-0.5.9.dev-py2.7.egg
+           0   0%    0.00kB/s    0:00:00         29317 100%   27.96MB/s    0:00:00 (xfer#4, to-check=1243/34300)
+packages/2.7/p/pyprintflow2/
+packages/2.7/p/pyprintflow2/pyprintflow2-0.3.26-py2.7.egg
+           0   0%    0.00kB/s    0:00:00         58113 100%   69.72kB/s    0:00:00 (xfer#5, to-check=1061/36469)
+packages/2.7/p/pyprintflow2/pyprintflow2-0.3.27-py2.7.egg
+           0   0%    0.00kB/s    0:00:00         58191 100%   68.22kB/s    0:00:00 (xfer#6, to-check=1060/36469)
+packages/2.7/p/pyprintflow2/pyprintflow2-0.3.28-py2.7.egg
+           0   0%    0.00kB/s    0:00:00         58199 100%  116.23kB/s    0:00:00 (xfer#7, to-check=1059/36469)
+packages/2.7/t/todotxt-machine/
+packages/2.7/t/todotxt-machine/todotxt_machine-1.0.3-py2.7.egg
+           0   0%    0.00kB/s    0:00:00         56581 100%  182.96kB/s    0:00:00 (xfer#8, to-check=1001/37991)
+packages/3.3/t/
+packages/3.3/t/todotxt-machine/
+packages/3.3/t/todotxt-machine/todotxt_machine-1.0.3-py3.3.egg
+           0   0%    0.00kB/s    0:00:00         58925 100%   76.42kB/s    0:00:00 (xfer#9, to-check=1000/41725)
+packages/any/b/
+packages/any/b/breezedb/
+packages/any/b/breezedb/breezedb-1.0.1.win-amd64.exe
+           0   0%    0.00kB/s    0:00:00         32768  14%   24.65kB/s    0:00:08         98304  42%   35.63kB/s    0:00:03        163840  70%   34.32kB/s    0:00:02        196608  84%   32.26kB/s    0:00:01        233749 100%   38.35kB/s    0:00:05 (xfer#10, to-check=1015/43348)
+packages/any/b/breezedb/breezedb-1.0.1.win32.exe
+           0   0%    0.00kB/s    0:00:00         65536  31%   32.70kB/s    0:00:04        131072  63%   23.76kB/s    0:00:03        163840  79%   24.43kB/s    0:00:01        206101 100%   28.30kB/s    0:00:07 (xfer#11, to-check=1014/43348)
+deleting packages/any/i/imglib/imglib-0.2.linux-i686.tar.gz
+deleting packages/any/i/imglib/imglib-0.1.linux-i686.tar.gz
+deleting packages/any/l/leo/leo-4.11.devel-build-5802.win32.exe
+deleting packages/any/l/leo/leo-4.11.devel-build-5769.win32.exe
+packages/any/i/imglib/
+packages/any/l/leo/
+packages/any/w/word2vec/
+packages/any/w/word2vec/word2vec-0.2.1.macosx-10.5-x86_64.exe
+           0   0%    0.00kB/s    0:00:00         65536  70%   45.98kB/s    0:00:00         92681 100%   65.02kB/s    0:00:01 (xfer#12, to-check=1023/47989)
+packages/any/w/word2vec/word2vec-0.2.macosx-10.5-x86_64.exe
+           0   0%    0.00kB/s    0:00:00         32768  35%   18.79kB/s    0:00:03         92670 100%   43.93kB/s    0:00:02 (xfer#13, to-check=1022/47989)
+packages/py2.py3/w/warehouse/
+packages/py2.py3/w/warehouse/warehouse-13.11.0-py2.py3-none-any.whl
+           0   0%    0.00kB/s    0:00:00         32768   1%   29.30kB/s    0:00:59         98304   5%   27.20kB/s    0:01:01        131072   7%   24.75kB/s    0:01:06        163840   9%   24.93kB/s    0:01:04        196608  11%   24.19kB/s    0:01:05        262144  14%   27.61kB/s    0:00:54        294912  16%   30.30kB/s    0:00:48        360448  20%   34.72kB/s    0:00:40        425984  23%   34.33kB/s    0:00:39        458752  25%   31.17kB/s    0:00:42        491520  27%   31.63kB/s    0:00:40        557056  31%   32.78kB/s    0:00:37        622592  35%   39.01kB/s    0:00:29        655360  36%   39.24kB/s    0:00:28        720896  40%   40.91kB/s    0:00:25        753664  42%   36.23kB/s    0:00:28        786432  44%   29.77kB/s    0:00:33        851968  47%   30.38kB/s    0:00:30        884736  49%   26.64kB/s    0:00:33        950272  53%   29.49kB/s    0:00:27        983040  55%   31.29kB/s    0:00:25       1015808  57%   32.04kB/s    0:00:23       1048576  59%   30.79kB/s    0:00:23       1081344  60%   26.33kB/s    0:00:26       1114112  62%   22.56kB/s    0:00:29       1146880  64%   21.96kB/s    0:00:28       1212416  68%   26.24kB/s    0:00:21       1277952  71%   29.02kB/s    0:00:17       1343488  75%   34.94kB/s    0:00:12       1409024  79%   37.25kB/s    0:00:09       1474560  83%   33.07kB/s    0:00:09       1540096  86%   32.21kB/s    0:00:07       1605632  90%   32.39kB/s    0:00:05       1671168  94%   33.72kB/s    0:00:03       1736704  97%   38.64kB/s    0:00:00       1775312 100%   32.30kB/s    0:00:53 (xfer#14, to-check=1000/48097)
+deleting packages/source/B/BreezeDB/BreezeDB-1.0.0.tar.gz
+deleting packages/source/B/BreezeDB/
+packages/source/B/
+packages/source/D/DTL/
+packages/source/D/DTL/DTL-1.1.7.zip
+           0   0%    0.00kB/s    0:00:00         32768  26%   20.55kB/s    0:00:04         65536  52%   24.83kB/s    0:00:02        125396 100%   37.92kB/s    0:00:03 (xfer#15, to-check=1037/52524)
+packages/source/D/Dialogs/
+packages/source/D/Dialogs/Dialogs-0.10.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   5%   26.06kB/s    0:00:21         65536  11%   24.62kB/s    0:00:21         98304  16%   22.74kB/s    0:00:21        131072  22%   23.83kB/s    0:00:19        163840  27%   22.26kB/s    0:00:19        196608  33%   23.15kB/s    0:00:17        262144  44%   31.31kB/s    0:00:10        327680  55%   33.86kB/s    0:00:07        393216  66%   40.65kB/s    0:00:04        458752  77%   46.24kB/s    0:00:02        557056  94%   50.95kB/s    0:00:00        590488 100%   38.48kB/s    0:00:14 (xfer#16, to-check=1007/52770)
+packages/source/D/Dialogs/Dialogs-0.11.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   5%   16.41kB/s    0:00:33         65536  11%   20.40kB/s    0:00:25         98304  16%   20.88kB/s    0:00:23        163840  27%   24.74kB/s    0:00:17        196608  33%   27.68kB/s    0:00:14        229376  38%   26.85kB/s    0:00:13        294912  49%   32.77kB/s    0:00:09        327680  55%   31.94kB/s    0:00:08        393216  66%   35.65kB/s    0:00:05        425984  72%   32.03kB/s    0:00:05        458752  77%   25.60kB/s    0:00:05        524288  88%   27.51kB/s    0:00:02        590502 100%   30.53kB/s    0:00:18 (xfer#17, to-check=1006/52770)
+packages/source/G/
+packages/source/G/Glances/
+packages/source/G/Glances/Glances-1.7.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   2%   18.37kB/s    0:01:04         65536   5%   21.07kB/s    0:00:54        131072  10%   24.60kB/s    0:00:44        163840  13%   24.84kB/s    0:00:42        196608  16%   26.56kB/s    0:00:38        229376  18%   27.89kB/s    0:00:35        294912  24%   28.78kB/s    0:00:32        327680  26%   26.13kB/s    0:00:34        360448  29%   25.76kB/s    0:00:33        393216  32%   24.96kB/s    0:00:33        425984  34%   21.15kB/s    0:00:37        458752  37%   24.30kB/s    0:00:31        524288  42%   30.64kB/s    0:00:22        557056  45%   28.29kB/s    0:00:23        589824  48%   31.12kB/s    0:00:20        655360  53%   31.93kB/s    0:00:17        720896  58%   31.85kB/s    0:00:15        753664  61%   34.86kB/s    0:00:13        786432  64%   32.64kB/s    0:00:13        819200  66%   28.77kB/s    0:00:14        851968  69%   22.00kB/s    0:00:16        917504  75%   26.36kB/s    0:00:11        983040  80%   32.81kB/s    0:00:07       1048576  85%   39.86kB/s    0:00:04       1081344  88%   41.51kB/s    0:00:03       1114112  91%   34.78kB/s    0:00:03       1146880  93%   29.54kB/s    0:00:02       1179648  96%   20.94kB/s    0:00:02       1222969 100%   28.94kB/s    0:00:41 (xfer#18, to-check=1001/57092)
+packages/source/G/Gwilio/
+packages/source/G/Gwilio/Gwilio-1.0.tar.gz
+           0   0%    0.00kB/s    0:00:00          1578 100%    1.50MB/s    0:00:00 (xfer#19, to-check=1006/57327)
+packages/source/G/Gwilio/Gwilio-1.1.tar.gz
+           0   0%    0.00kB/s    0:00:00          1466 100%    1.40MB/s    0:00:00 (xfer#20, to-check=1005/57327)
+packages/source/G/Gwilio/Gwilio-1.2.tar.gz
+           0   0%    0.00kB/s    0:00:00          1483 100%    1.41MB/s    0:00:00 (xfer#21, to-check=1004/57327)
+packages/source/M/MakeItSo/
+packages/source/M/MakeItSo/MakeItSo-0.2.8.tar.gz
+           0   0%    0.00kB/s    0:00:00         11672 100%   11.13MB/s    0:00:00 (xfer#22, to-check=1009/59865)
+packages/source/N/Nikola/
+packages/source/N/Nikola/nikola-6.2.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536   7%   40.10kB/s    0:00:20        131072  14%   37.98kB/s    0:00:20        196608  21%   43.42kB/s    0:00:16        229376  25%   40.95kB/s    0:00:16        262144  29%   30.30kB/s    0:00:21        294912  32%   26.58kB/s    0:00:22        327680  36%   21.30kB/s    0:00:26        393216  43%   21.84kB/s    0:00:23        458752  50%   28.73kB/s    0:00:15        491520  54%   29.68kB/s    0:00:13        557056  61%   29.31kB/s    0:00:11        589824  65%   30.26kB/s    0:00:10        622592  69%   25.40kB/s    0:00:10        655360  72%   25.97kB/s    0:00:09        720896  80%   27.91kB/s    0:00:06        753664  83%   27.09kB/s    0:00:05        786432  87%   26.63kB/s    0:00:04        819200  91%   25.60kB/s    0:00:03        851968  94%   23.30kB/s    0:00:02        900104 100%   29.77kB/s    0:00:29 (xfer#23, to-check=1693/62039)
+packages/source/P/
+packages/source/P/PyODConverter/
+packages/source/P/PyODConverter/PyODConverter-1.7.tar.gz
+           0   0%    0.00kB/s    0:00:00          4735 100%    4.52MB/s    0:00:00 (xfer#24, to-check=1000/67891)
+packages/source/R/ReText/
+packages/source/R/ReText/ReText-4.1.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         98304  78%   72.67kB/s    0:00:00        125987 100%   93.14kB/s    0:00:01 (xfer#25, to-check=1011/69812)
+packages/source/R/RuSocSci/
+packages/source/R/RuSocSci/RuSocSci-0.6.3.tar.gz
+           0   0%    0.00kB/s    0:00:00          5607 100%    3.68kB/s    0:00:01 (xfer#26, to-check=1038/70298)
+packages/source/S/
+packages/source/S/SimplePake/
+packages/source/S/SimplePake/SimplePake-0.1.1.tar.gz
+           0   0%    0.00kB/s    0:00:00          1229 100%    1.17MB/s    0:00:00 (xfer#27, to-check=1009/71991)
+packages/source/S/SimplePake/SimplePake-0.1.tar.gz
+           0   0%    0.00kB/s    0:00:00          1220 100%   91.65kB/s    0:00:00 (xfer#28, to-check=1008/71991)
+packages/source/S/Solgema.fullcalendar/
+packages/source/S/Solgema.fullcalendar/Solgema.fullcalendar-2.3.2.tar.gz
+           0   0%    0.00kB/s    0:00:00        103742 100%  150.76kB/s    0:00:00 (xfer#29, to-check=1011/72170)
+deleting packages/source/Y/YASGG/YASGG-0.0.1dev.tar.gz
+packages/source/Y/YASGG/
+packages/source/Y/YASGG/YASGG-0.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   2%   25.12kB/s    0:00:45         65536   5%   21.61kB/s    0:00:51         98304   8%   22.19kB/s    0:00:48        131072  11%   22.55kB/s    0:00:46        196608  16%   24.87kB/s    0:00:39        229376  19%   27.12kB/s    0:00:35        294912  24%   26.59kB/s    0:00:33        327680  27%   26.56kB/s    0:00:32        360448  30%   25.63kB/s    0:00:32        425984  36%   29.41kB/s    0:00:25        491520  41%   35.74kB/s    0:00:19        557056  47%   38.96kB/s    0:00:16        622592  52%   34.37kB/s    0:00:16        655360  55%   31.07kB/s    0:00:16        688128  58%   28.35kB/s    0:00:17        720896  61%   26.46kB/s    0:00:17        786432  66%   32.07kB/s    0:00:12        851968  72%   36.34kB/s    0:00:09        917504  77%   40.76kB/s    0:00:06        983040  83%   44.52kB/s    0:00:04       1015808  85%   42.08kB/s    0:00:03       1048576  88%   36.43kB/s    0:00:03       1081344  91%   32.03kB/s    0:00:03       1114112  94%   25.47kB/s    0:00:02       1146880  97%   26.26kB/s    0:00:01       1181531 100%   31.54kB/s    0:00:36 (xfer#30, to-check=1351/76168)
+packages/source/a/ansible/
+packages/source/a/ansible/ansible-1.3.4.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   8%   31.87kB/s    0:00:10         65536  17%   30.27kB/s    0:00:10         98304  26%   23.22kB/s    0:00:11        131072  34%   23.65kB/s    0:00:10        196608  52%   24.77kB/s    0:00:07        229376  60%   19.78kB/s    0:00:07        262144  69%   22.55kB/s    0:00:05        327680  86%   23.88kB/s    0:00:02        376763 100%   26.23kB/s    0:00:14 (xfer#31, to-check=1006/78844)
+packages/source/a/armet/
+packages/source/a/armet/armet-0.4.4.tar.gz
+           0   0%    0.00kB/s    0:00:00         41513 100%  193.05kB/s    0:00:00 (xfer#32, to-check=1290/80534)
+packages/source/b/
+packages/source/b/breezedb/
+packages/source/b/breezedb/breezedb-1.0.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         28954 100%   27.61MB/s    0:00:00 (xfer#33, to-check=1011/87255)
+packages/source/b/breezedb/breezedb-1.0.1.zip
+           0   0%    0.00kB/s    0:00:00         32768  80%   23.39kB/s    0:00:00         40932 100%   29.22kB/s    0:00:01 (xfer#34, to-check=1010/87255)
+packages/source/c/c2c.sqlalchemy.rest/
+packages/source/c/c2c.sqlalchemy.rest/c2c.sqlalchemy.rest-0.3rc1.tar.gz
+           0   0%    0.00kB/s    0:00:00          5370 100%    5.12MB/s    0:00:00 (xfer#35, to-check=1036/90864)
+packages/source/c/ceph-deploy/
+packages/source/c/ceph-deploy/ceph-deploy-1.3.tar.gz
+           0   0%    0.00kB/s    0:00:00         66050 100%   72.47kB/s    0:00:00 (xfer#36, to-check=1012/91969)
+packages/source/c/cow-framework/
+packages/source/c/cow-framework/cow-framework-0.7.0.tar.gz
+           0   0%    0.00kB/s    0:00:00          7727 100%    7.37MB/s    0:00:00 (xfer#37, to-check=1003/100743)
+packages/source/d/
+deleting packages/source/d/django-axes/django-axes-1.3.3.zip
+packages/source/d/django-auth-policy/
+packages/source/d/django-auth-policy/django-auth-policy-0.3.tar.gz
+           0   0%    0.00kB/s    0:00:00         13240 100%   12.63MB/s    0:00:00 (xfer#38, to-check=1053/110605)
+packages/source/d/django-axes/
+packages/source/d/django-axes/django-axes-1.3.4.dev0.tar.gz
+           0   0%    0.00kB/s    0:00:00         13263 100%   12.65MB/s    0:00:00 (xfer#39, to-check=1008/110823)
+packages/source/d/django-axes/django-axes-1.3.4.zip
+           0   0%    0.00kB/s    0:00:00         24102 100%   33.34kB/s    0:00:00 (xfer#40, to-check=1007/110823)
+packages/source/d/django-axes/django-axes-1.3.5.zip
+           0   0%    0.00kB/s    0:00:00         24194 100%   18.12kB/s    0:00:01 (xfer#41, to-check=1006/110823)
+packages/source/d/django-bootstrap-admin/
+packages/source/d/django-bootstrap-admin/django-bootstrap-admin-0.3.3.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536  14%   36.78kB/s    0:00:10        131072  28%   41.80kB/s    0:00:07        196608  43%   41.08kB/s    0:00:06        229376  50%   38.84kB/s    0:00:05        262144  57%   36.36kB/s    0:00:05        327680  71%   36.23kB/s    0:00:03        393216  86%   37.34kB/s    0:00:01        456330 100%   42.38kB/s    0:00:10 (xfer#42, to-check=1002/111163)
+packages/source/d/django-jquery-tablesorter/
+packages/source/d/django-jquery-tablesorter/django-jquery-tablesorter-2.12.0.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536  52%   54.94kB/s    0:00:01        124561 100%   74.31kB/s    0:00:01 (xfer#43, to-check=1005/117288)
+packages/source/d/django-libs/
+packages/source/d/django-libs/django-libs-1.23.tar.gz
+           0   0%    0.00kB/s    0:00:00         28248 100%   26.94MB/s    0:00:00 (xfer#44, to-check=1023/117906)
+packages/source/d/django-multilingual-news/
+packages/source/d/django-multilingual-news/django-multilingual-news-1.0.tar.gz
+           0   0%    0.00kB/s    0:00:00         19837 100%   18.92MB/s    0:00:00 (xfer#45, to-check=1002/119153)
+packages/source/d/django-ostinato/
+packages/source/d/django-ostinato/django-ostinato-1.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768  19%   19.15kB/s    0:00:06         65536  39%   20.40kB/s    0:00:04         98304  59%   22.93kB/s    0:00:02        164001 100%   32.11kB/s    0:00:04 (xfer#46, to-check=1010/120070)
+packages/source/d/django-summernote/
+packages/source/d/django-summernote/django-summernote-0.3.7.tar.gz
+           0   0%    0.00kB/s    0:00:00         37052 100%   35.34MB/s    0:00:00 (xfer#47, to-check=1011/124650)
+packages/source/d/django-swingers/
+packages/source/d/django-swingers/django-swingers-1.0.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   1%   18.56kB/s    0:01:54         98304   4%   27.88kB/s    0:01:13        163840   7%   29.79kB/s    0:01:06        196608   9%   29.21kB/s    0:01:06        229376  10%   29.95kB/s    0:01:04        294912  13%   30.12kB/s    0:01:01        360448  16%   29.99kB/s    0:00:59        393216  18%   30.13kB/s    0:00:58        425984  19%   32.97kB/s    0:00:52        491520  22%   34.83kB/s    0:00:47        557056  25%   38.83kB/s    0:00:41        622592  28%   44.76kB/s    0:00:34        688128  31%   49.44kB/s    0:00:29        753664  35%   49.60kB/s    0:00:28        819200  38%   48.51kB/s    0:00:27        884736  41%   45.92kB/s    0:00:27        917504  42%   40.25kB/s    0:00:30        950272  44%   34.12kB/s    0:00:35        983040  45%   23.02kB/s    0:00:50       1015808  47%   17.14kB/s    0:01:06       1048576  48%   16.34kB/s    0:01:07       1081344  50%   16.69kB/s    0:01:04       1114112  51%   20.74kB/s    0:00:50       1146880  53%   23.62kB/s    0:00:42       1212416  56%   28.54kB/s    0:00:32       1277952  59%   27.78kB/s    0:00:31       1343488  62%   30.54kB/s    0:00:26       1409024  65%   32.33kB/s    0:00:22       1441792  67%   30.10kB/s    0:00:23       1507328  70%   34.70kB/s    0:00:18       1540096  71%   30.00kB/s    0:00:20       1605632  74%   31.30kB/s    0:00:17       1671168  77%   37.05kB/s    0:00:12       1736704  80%   34.70kB/s    0:00:11       1769472  82%   36.81kB/s    0:00:10       1802240  83%   29.75kB/s    0:00:11       1835008  85%   16.92kB/s    0:00:18       1900544  88%   16.44kB/s    0:00:15       1933312  89%   16.43kB/s    0:00:13       1966080  91%   17.98kB/s    0:00:10       1998848  92%   26.14kB/s    0:00:05       2031616  94%   24.15kB/s    0:00:04       2064384  95%   24.99kB/s    0:00:03       2097152  97%   21.41kB/s    0:00:02       2151916 100%   28.98kB/s    0:01:12 (xfer#48, to-check=1002/124681)
+packages/source/d/django-swingers/django-swingers-1.0.3.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   1%   24.83kB/s    0:01:25         98304   4%   25.86kB/s    0:01:19        131072   6%   22.65kB/s    0:01:29        163840   7%   21.10kB/s    0:01:34        196608   9%   21.57kB/s    0:01:31        262144  12%   22.27kB/s    0:01:25        294912  13%   23.91kB/s    0:01:18        327680  15%   25.92kB/s    0:01:10        393216  18%   27.68kB/s    0:01:04        425984  19%   24.90kB/s    0:01:09        491520  22%   29.06kB/s    0:00:57        557056  25%   33.20kB/s    0:00:48        622592  28%   36.53kB/s    0:00:42        688128  31%   42.71kB/s    0:00:34        720896  33%   41.67kB/s    0:00:34        786432  36%   37.70kB/s    0:00:36        819200  37%   31.25kB/s    0:00:43        884736  40%   30.73kB/s    0:00:41        917504  42%   30.18kB/s    0:00:41        983040  45%   30.73kB/s    0:00:38       1015808  46%   31.95kB/s    0:00:35       1048576  48%   29.72kB/s    0:00:37       1114112  51%   32.92kB/s    0:00:31       1146880  52%   32.60kB/s    0:00:31       1212416  55%   33.95kB/s    0:00:28       1277952  59%   34.67kB/s    0:00:25       1310720  60%   31.86kB/s    0:00:26       1343488  62%   31.94kB/s    0:00:25       1376256  63%   28.30kB/s    0:00:27       1409024  65%   24.02kB/s    0:00:31       1474560  68%   26.99kB/s    0:00:25       1540096  71%   31.65kB/s    0:00:19       1605632  74%   36.39kB/s    0:00:15       1638400  75%   39.46kB/s    0:00:13       1703936  78%   39.15kB/s    0:00:11       1769472  81%   34.69kB/s    0:00:11       1835008  84%   33.24kB/s    0:00:09       1900544  87%   34.39kB/s    0:00:07       1966080  90%   31.81kB/s    0:00:06       1998848  92%   29.33kB/s    0:00:05       2064384  95%   33.57kB/s    0:00:03       2129920  98%   36.07kB/s    0:00:00       2165737 100%   31.99kB/s    0:01:06 (xfer#49, to-check=1001/124681)
+packages/source/e/eppy/
+packages/source/e/eppy/eppy-0.4.3.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536   7%   56.54kB/s    0:00:13        131072  15%   51.10kB/s    0:00:13        196608  23%   46.49kB/s    0:00:13        262144  31%   44.16kB/s    0:00:12        327680  39%   41.14kB/s    0:00:11        360448  43%   37.64kB/s    0:00:12        393216  47%   32.23kB/s    0:00:13        425984  51%   29.19kB/s    0:00:13        458752  55%   23.52kB/s    0:00:15        491520  59%   23.57kB/s    0:00:13        557056  67%   26.23kB/s    0:00:10        589824  71%   26.72kB/s    0:00:08        622592  75%   28.72kB/s    0:00:06        655360  79%   27.91kB/s    0:00:05        688128  83%   28.68kB/s    0:00:04        753664  91%   30.19kB/s    0:00:02        821153 100%   34.13kB/s    0:00:23 (xfer#50, to-check=1001/132772)
+packages/source/f/fbu/
+packages/source/f/fbu/fbu-0.0.1dev.3.tar.gz
+           0   0%    0.00kB/s    0:00:00          9314 100%    8.88MB/s    0:00:00 (xfer#51, to-check=1015/135370)
+packages/source/g/
+packages/source/g/gsh/
+packages/source/g/gsh/gsh-0.7.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         14166 100%   13.51MB/s    0:00:00 (xfer#52, to-check=1024/144037)
+packages/source/g/gu-django-multihost/
+packages/source/g/gu-django-multihost/gu-django-multihost-1.0.0.tar.gz
+           0   0%    0.00kB/s    0:00:00          4866 100%    4.64MB/s    0:00:00 (xfer#53, to-check=1004/144144)
+packages/source/g/guzzle_sphinx_theme/
+packages/source/g/guzzle_sphinx_theme/guzzle_sphinx_theme-0.4.0.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536  69%   59.87kB/s    0:00:00         94978 100%   86.68kB/s    0:00:01 (xfer#54, to-check=1004/144336)
+packages/source/h/halite/
+packages/source/h/halite/halite-0.1.03.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536  16%   44.85kB/s    0:00:07        131072  33%   39.32kB/s    0:00:06        163840  41%   33.85kB/s    0:00:06        196608  49%   33.29kB/s    0:00:05        229376  58%   29.85kB/s    0:00:05        262144  66%   23.97kB/s    0:00:05        294912  74%   21.58kB/s    0:00:04        327680  82%   20.00kB/s    0:00:03        360448  91%   16.91kB/s    0:00:02        395010 100%   26.86kB/s    0:00:14 (xfer#55, to-check=1006/145077)
+packages/source/h/hiveary-agent/
+packages/source/h/hiveary-agent/hiveary-agent-1.1.0.tar.gz
+           0   0%    0.00kB/s    0:00:00         31380 100%   29.93MB/s    0:00:00 (xfer#56, to-check=1010/146039)
+deleting packages/source/i/imglib/imglib-0.2.tar.gz
+deleting packages/source/i/imglib/imglib-0.1.tar.gz
+packages/source/i/
+packages/source/i/icoshift/
+packages/source/i/icoshift/icoshift-0.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         14412 100%   13.74MB/s    0:00:00 (xfer#57, to-check=1006/148307)
+packages/source/i/imglib/
+packages/source/i/imglib/imglib-0.3.tar.gz
+           0   0%    0.00kB/s    0:00:00          2561 100%    2.44MB/s    0:00:00 (xfer#58, to-check=1001/148681)
+packages/source/i/ipkg/
+packages/source/i/ipkg/ipkg-0.10.0.tar.gz
+           0   0%    0.00kB/s    0:00:00         20118 100%   19.19MB/s    0:00:00 (xfer#59, to-check=1512/150716)
+packages/source/k/kaaedit/
+packages/source/k/kaaedit/kaaedit-0.6.0.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536  36%   39.90kB/s    0:00:02         98304  54%   32.38kB/s    0:00:02        131072  73%   25.70kB/s    0:00:01        179053 100%   30.85kB/s    0:00:05 (xfer#60, to-check=1000/154942)
+packages/source/k/kotti_contactform/
+packages/source/k/kotti_contactform/kotti_contactform-0.3.zip
+           0   0%    0.00kB/s    0:00:00         65536  39%   50.39kB/s    0:00:01        131072  79%   47.67kB/s    0:00:00        165097 100%   60.03kB/s    0:00:02 (xfer#61, to-check=1008/155997)
+deleting packages/source/l/leo/leo-4.11.devel-build-5769.zip
+packages/source/l/leo/
+packages/source/l/leo/leo-4.11b1-build-5020.zip
+           0   0%    0.00kB/s    0:00:00         65536   1%   41.10kB/s    0:02:26         98304   1%   32.64kB/s    0:03:03        163840   2%   29.71kB/s    0:03:19        229376   3%   32.02kB/s    0:03:03        294912   4%   30.21kB/s    0:03:12        360448   5%   32.65kB/s    0:02:55        425984   6%   29.78kB/s    0:03:10        491520   8%   28.76kB/s    0:03:14        557056   9%   31.28kB/s    0:02:57        622592  10%   33.09kB/s    0:02:45        655360  10%   38.13kB/s    0:02:22        688128  11%   24.28kB/s    0:03:42        753664  12%   23.69kB/s    0:03:45        819200  13%   24.63kB/s    0:03:34        917504  15%   31.90kB/s    0:02:42        950272  15%   50.40kB/s    0:01:42        983040  16%   47.20kB/s    0:01:48       1015808  16%   37.56kB/s    0:02:15       1048576  17%   26.00kB/s    0:03:14       1114112  18%   27.79kB/s    0:02:59       1179648  19%   31.73kB/s    0:02:35       1212416  19%   32.03kB/s    0:02:32       1245184  20%   31.01kB/s    0:02:36       1310720  21%   32.14kB/s    0:02:28       1376256  22%   31.91kB/s    0:02:27       1441792  23%   36.00kB/s    0:02:09       1507328  24%   41.54kB/s    0:01:50       1572864  25%   44.48kB/s    0:01:41       1638400  26%   44.50kB/s    0:01:40       1671168  27%   37.53kB/s    0:01:57       1703936  27%   28.52kB/s    0:02:34       1736704  28%   23.19kB/s    0:03:08       1769472  29%   18.19kB/s    0:03:57       1802240  29%   19.82kB/s    0:03:36       1835008  30%   23.28kB/s    0:03:03       1900544  31%   28.76kB/s    0:02:25       1966080  32%   34.74kB/s    0:01:58       2031616  33%   26.56kB/s    0:02:33       2064384  33%   27.28kB/s    0:02:27       2097152  34%   24.36kB/s    0:02:44       2129920  34%   20.90kB/s    0:03:09       2195456  36%   30.18kB/s    0:02:09       2228224  36%   30.31kB/s    0:02:07       2293760  37%   33.15kB/s    0:01:54       2359296  38%   38.63kB/s    0:01:36       2424832  39%   42.63kB/s    0:01:26       2490368  40%   43.28kB/s    0:01:23       2555904  41%   41.99kB/s    0:01:24       2621440  42%   41.65kB/s    0:01:23       2686976  44%   38.81kB/s    0:01:27       2719744  44%   34.26kB/s    0:01:38       2752512  45%   33.05kB/s    0:01:41       2785280  45%   28.01kB/s    0:01:58       2850816  46%   26.69kB/s    0:02:01       2916352  47%   32.25kB/s    0:01:38       2981888  48%   36.70kB/s    0:01:24       3047424  49%   33.26kB/s    0:01:31       3112960  51%   34.62kB/s    0:01:26       3178496  52%   34.66kB/s    0:01:24       3211264  52%   29.35kB/s    0:01:38       3276800  53%   35.77kB/s    0:01:18       3342336  54%   36.72kB/s    0:01:15       3375104  55%   34.71kB/s    0:01:18       3407872  55%   34.47kB/s    0:01:18       3440640  56%   28.15kB/s    0:01:34       3473408  56%   23.70kB/s    0:01:50       3538944  58%   26.23kB/s    0:01:37       3604480  59%   27.77kB/s    0:01:29       3670016  60%   31.10kB/s    0:01:18       3735552  61%   33.15kB/s    0:01:11       3768320  61%   31.08kB/s    0:01:14       3801088  62%   28.80kB/s    0:01:19       3833856  62%   26.52kB/s    0:01:25       3899392  63%   21.60kB/s    0:01:41       3932160  64%   21.83kB/s    0:01:39       3964928  65%   23.52kB/s    0:01:30       4030464  66%   26.20kB/s    0:01:18       4096000  67%   31.12kB/s    0:01:04       4128768  67%   30.92kB/s    0:01:03       4194304  68%   30.96kB/s    0:01:01       4259840  69%   29.19kB/s    0:01:02       4325376  70%   28.91kB/s    0:01:01       4390912  72%   31.14kB/s    0:00:54       4456448  73%   33.19kB/s    0:00:49       4521984  74%   37.54kB/s    0:00:41       4587520  75%   39.77kB/s    0:00:37       4653056  76%   41.52kB/s    0:00:34       4718592  77%   46.14kB/s    0:00:29       4784128  78%   47.57kB/s    0:00:27       4849664  79%   47.71kB/s    0:00:26       4882432  80%   42.38kB/s    0:00:28       4947968  81%   41.18kB/s    0:00:27       5013504  82%   37.20kB/s    0:00:29       5046272  82%   34.72kB/s    0:00:30       5111808  83%   39.77kB/s    0:00:24       5177344  84%   36.99kB/s    0:00:24       5210112  85%   32.88kB/s    0:00:27       5242880  85%   30.01kB/s    0:00:28       5275648  86%   24.86kB/s    0:00:33       5308416  87%   21.99kB/s    0:00:35       5341184  87%   21.79kB/s    0:00:34       5373952  88%   22.55kB/s    0:00:32       5406720  88%   23.80kB/s    0:00:29       5439488  89%   23.04kB/s    0:00:28       5472256  89%   25.76kB/s    0:00:24       5537792  90%   29.44kB/s    0:00:19       5570560  91%   30.15kB/s    0:00:17       5636096  92%   36.46kB/s    0:00:12       5668864  92%   36.50kB/s    0:00:11       5701632  93%   35.14kB/s    0:00:11       5734400  94%   34.77kB/s    0:00:10       5799936  95%   32.92kB/s    0:00:09       5865472  96%   34.90kB/s    0:00:06       5931008  97%   38.76kB/s    0:00:04       6029312  98%   45.49kB/s    0:00:01       6062080  99%   43.57kB/s    0:00:00       6097856 100%   32.46kB/s    0:03:03 (xfer#62, to-check=1001/158016)
+packages/source/l/loggerclient/
+packages/source/l/loggerclient/loggerclient-1.0.1.tar.gz
+           0   0%    0.00kB/s    0:00:00           978 100%  955.08kB/s    0:00:00 (xfer#63, to-check=1941/161166)
+packages/source/m/
+packages/source/m/mapclient/
+packages/source/m/mapclient/mapclient-0.10.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536   7%   36.18kB/s    0:00:21         98304  11%   34.08kB/s    0:00:22        163840  19%   39.32kB/s    0:00:17        196608  23%   33.60kB/s    0:00:19        229376  26%   23.19kB/s    0:00:26        262144  30%   22.61kB/s    0:00:26        294912  34%   17.48kB/s    0:00:32        327680  38%   19.17kB/s    0:00:27        360448  42%   25.22kB/s    0:00:19        393216  46%   25.30kB/s    0:00:18        458752  53%   29.87kB/s    0:00:13        524288  61%   32.17kB/s    0:00:10        589824  69%   36.27kB/s    0:00:07        622592  72%   29.29kB/s    0:00:07        655360  76%   26.80kB/s    0:00:07        688128  80%   23.84kB/s    0:00:06        753664  88%   23.62kB/s    0:00:04        819200  95%   36.18kB/s    0:00:00        854591 100%   29.90kB/s    0:00:27 (xfer#64, to-check=1024/162944)
+packages/source/m/minimalKB/
+packages/source/m/minimalKB/minimalKB-0.4.tar.gz
+           0   0%    0.00kB/s    0:00:00         32236 100%   30.74MB/s    0:00:00 (xfer#65, to-check=1002/165433)
+packages/source/m/minimalKB/minimalKB-0.5.tar.gz
+           0   0%    0.00kB/s    0:00:00         32767 100%   51.45kB/s    0:00:00 (xfer#66, to-check=1001/165433)
+packages/source/m/murano-metadataclient/
+packages/source/m/murano-metadataclient/murano-metadataclient-0.4.a16.g951c4a4.tar.gz
+           0   0%    0.00kB/s    0:00:00         22637 100%   21.59MB/s    0:00:00 (xfer#67, to-check=1157/168915)
+packages/source/n/
+packages/source/n/nytimes/
+packages/source/n/nytimes/nytimes-1.0.tar.gz
+           0   0%    0.00kB/s    0:00:00          3702 100%    3.53MB/s    0:00:00 (xfer#68, to-check=1000/173041)
+packages/source/p/
+packages/source/p/periscope_daemon/
+packages/source/p/periscope_daemon/periscope_daemon-0.0.0.dev.tar.gz
+           0   0%    0.00kB/s    0:00:00          5861 100%    5.59MB/s    0:00:00 (xfer#69, to-check=1009/181541)
+packages/source/p/periscope_daemon/periscope_daemon-0.0.1.dev.tar.gz
+           0   0%    0.00kB/s    0:00:00          5877 100%   51.71kB/s    0:00:00 (xfer#70, to-check=1008/181541)
+packages/source/p/periscope_daemon/periscope_daemon-0.0.2.dev.tar.gz
+           0   0%    0.00kB/s    0:00:00          5876 100%   28.27kB/s    0:00:00 (xfer#71, to-check=1007/181541)
+packages/source/p/periscope_daemon/periscope_daemon-0.0.3.dev.tar.gz
+           0   0%    0.00kB/s    0:00:00          6144 100%   18.69kB/s    0:00:00 (xfer#72, to-check=1006/181541)
+packages/source/p/pyaxon/
+packages/source/p/pyaxon/pyaxon-0.5.7.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536  19%   51.95kB/s    0:00:05        131072  39%   44.00kB/s    0:00:04        196608  59%   43.25kB/s    0:00:03        262144  79%   34.76kB/s    0:00:01        294912  89%   31.21kB/s    0:00:01        330793 100%   38.42kB/s    0:00:08 (xfer#73, to-check=1011/190355)
+packages/source/p/pyaxon/pyaxon-0.5.7.zip
+           0   0%    0.00kB/s    0:00:00         32768   9%   13.87kB/s    0:00:23         65536  18%   19.00kB/s    0:00:15         98304  27%   20.30kB/s    0:00:13        131072  36%   20.79kB/s    0:00:11        196608  54%   31.63kB/s    0:00:05        229376  63%   31.92kB/s    0:00:04        294912  81%   35.36kB/s    0:00:01        362178 100%   32.03kB/s    0:00:11 (xfer#74, to-check=1010/190355)
+packages/source/p/pyelasticsearch/
+packages/source/p/pyelasticsearch/pyelasticsearch-0.6.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         41412 100%   39.49MB/s    0:00:00 (xfer#75, to-check=1021/191862)
+packages/source/p/pykb/
+packages/source/p/pykb/pykb-1.4.tar.gz
+           0   0%    0.00kB/s    0:00:00          5866 100%    5.59MB/s    0:00:00 (xfer#76, to-check=1001/193273)
+deleting packages/source/p/pynesim/pynesim-0.2.1-dev.tar.gz
+packages/source/p/pymc/
+packages/source/p/pymc/pymc-2.3.tar.gz
+           0   0%    0.00kB/s    0:00:00         98304   0%   57.28kB/s    0:03:46        163840   1%   57.99kB/s    0:03:42        229376   1%   48.81kB/s    0:04:23        294912   2%   35.67kB/s    0:05:58        327680   2%   29.77kB/s    0:07:08        393216   3%   26.84kB/s    0:07:52        425984   3%   23.41kB/s    0:09:00        491520   3%   30.69kB/s    0:06:50        557056   4%   33.55kB/s    0:06:13        589824   4%   32.17kB/s    0:06:28        622592   4%   31.54kB/s    0:06:35        688128   5%   29.97kB/s    0:06:53        720896   5%   26.37kB/s    0:07:48        753664   5%   24.91kB/s    0:08:14        786432   6%   27.73kB/s    0:07:23        819200   6%   25.54kB/s    0:08:00        884736   6%   26.63kB/s    0:07:37        917504   7%   28.25kB/s    0:07:10        950272   7%   27.71kB/s    0:07:17       1015808   7%   30.70kB/s    0:06:32       1081344   8%   36.56kB/s    0:05:28       1146880   8%   43.50kB/s    0:04:34       1212416   9%   50.69kB/s    0:03:54       1277952   9%   50.73kB/s    0:03:52       1343488  10%   42.02kB/s    0:04:39       1409024  10%   39.19kB/s    0:04:57       1474560  11%   39.29kB/s    0:04:55       1540096  11%   42.75kB/s    0:04:29       1638400  12%   54.11kB/s    0:03:31       1671168  12%   50.09kB/s    0:03:47       1736704  13%   44.65kB/s    0:04:14       1769472  13%   39.36kB/s    0:04:47       1835008  14%   33.00kB/s    0:05:40       1867776  14%   32.12kB/s    0:05:49       1900544  14%   29.82kB/s    0:06:14       1966080  15%   32.51kB/s    0:05:41       2031616  15%   34.22kB/s    0:05:22       2064384  15%   35.70kB/s    0:05:08       2129920  16%   40.65kB/s    0:04:29       2195456  16%   42.59kB/s    0:04:15       2260992  17%   38.37kB/s    0:04:41       2326528  17%   38.52kB/s    0:04:39       2359296  18%   32.92kB/s    0:05:25       2424832  18%   33.30kB/s    0:05:19       2490368  19%   33.07kB/s    0:05:20       2555904  19%   37.03kB/s    0:04:44       2621440  20%   41.93kB/s    0:04:09       2654208  20%   37.56kB/s    0:04:37       2686976  20%   35.27kB/s    0:04:54       2719744  20%   25.26kB/s    0:06:50       2752512  21%   20.32kB/s    0:08:28       2785280  21%   18.73kB/s    0:09:09       2850816  21%   22.68kB/s    0:07:30       2883584  22%   27.32kB/s    0:06:13       2949120  22%   30.38kB/s    0:05:33       2981888  22%   33.31kB/s    0:05:03       3047424  23%   32.43kB/s    0:05:09       3112960  23%   32.65kB/s    0:05:05       3145728  24%   30.77kB/s    0:05:22       3178496  24%   28.95kB/s    0:05:42       3211264  24%   27.42kB/s    0:05:59       3276800  25%   30.55kB/s    0:05:20       3342336  25%   38.90kB/s    0:04:10       3407872  26%   45.41kB/s    0:03:33       3473408  26%   47.77kB/s    0:03:21       3538944  27%   50.18kB/s    0:03:10       3637248  27%   48.60kB/s    0:03:14       3702784  28%   41.70kB/s    0:03:44       3735552  28%   36.34kB/s    0:04:17       3801088  29%   34.02kB/s    0:04:32       3866624  29%   32.63kB/s    0:04:42       3974913  30%   43.71kB/s    0:03:28       4040449  30%   49.28kB/s    0:03:03       4105985  31%   50.65kB/s    0:02:57       4224230  32%   58.60kB/s    0:02:31       4289766  32%   54.93kB/s    0:02:40       4355302  33%   53.82kB/s    0:02:42       4460462  34%   65.31kB/s    0:02:11       4576194  34%   66.94kB/s    0:02:07       4608962  35%   61.77kB/s    0:02:17       4674498  35%   60.41kB/s    0:02:19       4707266  35%   46.56kB/s    0:02:59       4772802  36%   36.59kB/s    0:03:47       4935430  37%   59.35kB/s    0:02:17       5000966  38%   63.46kB/s    0:02:07       5066502  38%   61.19kB/s    0:02:10       5132038  39%   55.90kB/s    0:02:22       5300826  40%   58.69kB/s    0:02:12       5366362  41%   59.89kB/s    0:02:08       5431898  41%   61.42kB/s    0:02:04       5572100  42%   66.68kB/s    0:01:52       5604868  42%   46.50kB/s    0:02:40       5670404  43%   42.02kB/s    0:02:56       5703172  43%   39.96kB/s    0:03:04       5735940  43%   30.25kB/s    0:04:02       5768708  44%   29.69kB/s    0:04:06       5834244  44%   28.66kB/s    0:04:12       5899780  45%   27.04kB/s    0:04:25       5932548  45%   23.02kB/s    0:05:10       5965316  45%   22.26kB/s    0:05:19       5998084  45%   19.62kB/s    0:06:01       6063620  46%   22.18kB/s    0:05:16       6129156  46%   28.96kB/s    0:04:00       6194692  47%   33.93kB/s    0:03:22       6260228  47%   42.38kB/s    0:02:40       6325764  48%   45.46kB/s    0:02:28       6391300  48%   44.65kB/s    0:02:29       6424068  49%   38.79kB/s    0:02:51       6456836  49%   34.26kB/s    0:03:13       6489604  49%   21.74kB/s    0:05:03       6522372  49%   17.96kB/s    0:06:05       6555140  50%   18.48kB/s    0:05:53       6587908  50%   17.84kB/s    0:06:03       6653444  50%   28.44kB/s    0:03:45       6814121  52%   51.37kB/s    0:02:01       6879657  52%   57.10kB/s    0:01:48       6945193  53%   61.21kB/s    0:01:40       7094952  54%   75.12kB/s    0:01:19       7160488  54%   53.96kB/s    0:01:49       7193256  54%   47.96kB/s    0:02:02       7258792  55%   47.24kB/s    0:02:03       7401077  56%   48.67kB/s    0:01:56       7441955  56%   53.02kB/s    0:01:46       7507491  57%   51.62kB/s    0:01:47       7540259  57%   50.88kB/s    0:01:48       7573027  57%   30.42kB/s    0:03:01       7605795  58%   28.25kB/s    0:03:13       7771813  59%   50.00kB/s    0:01:46       7837349  59%   53.81kB/s    0:01:37       7954374  60%   63.89kB/s    0:01:20       8003894  61%   66.05kB/s    0:01:16       8069430  61%   48.81kB/s    0:01:42       8134966  62%   41.84kB/s    0:01:58       8167734  62%   33.13kB/s    0:02:28       8233270  62%   33.77kB/s    0:02:23       8266038  63%   32.37kB/s    0:02:28       8331574  63%   34.63kB/s    0:02:17       8364342  63%   35.16kB/s    0:02:14       8429878  64%   35.87kB/s    0:02:09       8495414  64%   33.90kB/s    0:02:15       8560950  65%   33.65kB/s    0:02:14       8626486  65%   36.42kB/s    0:02:02       8692022  66%   34.39kB/s    0:02:07       8757558  66%   38.38kB/s    0:01:52       8823094  67%   43.93kB/s    0:01:36       8855862  67%   41.34kB/s    0:01:42       8888630  67%   37.22kB/s    0:01:52       8954166  68%   38.33kB/s    0:01:47       9019702  68%   34.21kB/s    0:01:58       9085238  69%   34.10kB/s    0:01:57       9150774  69%   40.30kB/s    0:01:37       9216310  70%   35.68kB/s    0:01:48       9249078  70%   33.83kB/s    0:01:53       9314614  71%   38.03kB/s    0:01:39       9380150  71%   39.53kB/s    0:01:33       9445686  72%   44.76kB/s    0:01:21       9511222  72%   45.45kB/s    0:01:18       9576758  73%   41.81kB/s    0:01:23       9642294  73%   41.66kB/s    0:01:22       9707830  74%   43.03kB/s    0:01:18       9740598  74%   41.33kB/s    0:01:20       9806134  74%   44.64kB/s    0:01:13       9871670  75%   44.74kB/s    0:01:11       9974620  76%   51.04kB/s    0:01:00      10040156  76%   52.59kB/s    0:00:57      10072924  77%   49.48kB/s    0:01:00      10105692  77%   36.88kB/s    0:01:20      10176975  77%   33.82kB/s    0:01:25      10209524  78%   30.58kB/s    0:01:33      10275060  78%   31.95kB/s    0:01:27      10307828  78%   36.19kB/s    0:01:16      10340596  79%   27.90kB/s    0:01:38      10406132  79%   31.31kB/s    0:01:25      10438900  79%   28.80kB/s    0:01:31      10504436  80%   34.68kB/s    0:01:14      10537204  80%   33.93kB/s    0:01:14      10569972  80%   31.83kB/s    0:01:18      10635508  81%   33.10kB/s    0:01:13      10668276  81%   28.77kB/s    0:01:23      10733812  82%   32.47kB/s    0:01:12      10799348  82%   37.40kB/s    0:01:00      10864884  83%   42.36kB/s    0:00:52      10930420  83%   46.33kB/s    0:00:46      10995956  84%   44.62kB/s    0:00:46      11028724  84%   36.76kB/s    0:00:55      11094260  84%   34.05kB/s    0:00:58      11127028  85%   28.07kB/s    0:01:09      11159796  85%   26.63kB/s    0:01:12      11225332  85%   32.70kB/s    0:00:56      11388107  87%   54.12kB/s    0:00:31      11453643  87%   63.07kB/s    0:00:25      11519179  88%   62.96kB/s    0:00:24      11666196  89%   73.32kB/s    0:00:19      11731732  89%   39.23kB/s    0:00:34      11797268  90%   35.81kB/s    0:00:35      11830036  90%   32.96kB/s    0:00:37      11862804  90%   21.52kB/s    0:00:56      11984620  91%   40.01kB/s    0:00:27      12050156  92%   46.90kB/s    0:00:21      12115692  92%   58.08kB/s    0:00:16      12181228  93%   68.92kB/s    0:00:13      12311488  94%   71.65kB/s    0:00:10      12344256  94%   68.64kB/s    0:00:10      12409792  94%   62.46kB/s    0:00:10      12514179  95%   68.67kB/s    0:00:08      12612045  96%   52.33kB/s    0:00:08      12644813  96%   52.39kB/s    0:00:08      12710349  97%   52.31kB/s    0:00:07      12775885  97%   42.29kB/s    0:00:07      12841421  98%   40.88kB/s    0:00:05      12901928  98%   41.86kB/s    0:00:04      12967464  99%   42.62kB/s    0:00:02      13033000  99%   43.54kB/s    0:00:01      13080085 100%   39.90kB/s    0:05:20 (xfer#77, to-check=1003/193974)
+packages/source/p/pymorphy2-dicts/
+packages/source/p/pymorphy2-dicts/pymorphy2-dicts-2.4.389981.tar.bz2
+           0   0%    0.00kB/s    0:00:00         98304   1%   49.21kB/s    0:02:04        163840   2%   42.07kB/s    0:02:23        229376   3%   41.24kB/s    0:02:24        294912   4%   42.44kB/s    0:02:19        360448   5%   41.58kB/s    0:02:20        425984   6%   47.59kB/s    0:02:01        524288   8%   54.58kB/s    0:01:44        557056   8%   48.98kB/s    0:01:55        622592  10%   46.70kB/s    0:01:59        688128  11%   36.74kB/s    0:02:30        720896  11%   27.41kB/s    0:03:20        786432  12%   30.01kB/s    0:03:00        851968  13%   31.22kB/s    0:02:51        884736  14%   33.58kB/s    0:02:38        917504  14%   34.59kB/s    0:02:32        983040  15%   34.60kB/s    0:02:30       1048576  16%   30.74kB/s    0:02:47       1114112  17%   33.42kB/s    0:02:32       1179648  19%   35.87kB/s    0:02:20       1245184  20%   35.46kB/s    0:02:19       1277952  20%   34.74kB/s    0:02:21       1310720  21%   28.08kB/s    0:02:54       1343488  21%   25.02kB/s    0:03:14       1376256  22%   22.12kB/s    0:03:38       1441792  23%   25.49kB/s    0:03:06       1507328  24%   33.44kB/s    0:02:20       1572864  25%   37.43kB/s    0:02:03       1605632  25%   36.73kB/s    0:02:05       1638400  26%   35.35kB/s    0:02:09       1703936  27%   33.70kB/s    0:02:13       1769472  28%   34.08kB/s    0:02:10       1835008  29%   37.58kB/s    0:01:56       1900544  30%   38.88kB/s    0:01:50       1966080  31%   39.94kB/s    0:01:46       1998848  32%   35.98kB/s    0:01:56       2031616  32%   33.72kB/s    0:02:03       2097152  33%   34.22kB/s    0:02:00       2162688  34%   34.69kB/s    0:01:56       2228224  35%   42.03kB/s    0:01:34       2293760  36%   47.70kB/s    0:01:22       2326528  37%   43.93kB/s    0:01:28       2392064  38%   40.52kB/s    0:01:34       2424832  39%   31.70kB/s    0:01:59       2490368  40%   28.95kB/s    0:02:08       2555904  41%   34.38kB/s    0:01:46       2621440  42%   33.05kB/s    0:01:48       2686976  43%   38.81kB/s    0:01:30       2752512  44%   40.10kB/s    0:01:26       2818048  45%   41.03kB/s    0:01:22       2883584  46%   45.05kB/s    0:01:13       2949120  47%   44.21kB/s    0:01:13       2981888  48%   41.71kB/s    0:01:17       3047424  49%   30.60kB/s    0:01:43       3080192  49%   25.83kB/s    0:02:01       3112960  50%   22.30kB/s    0:02:18       3178496  51%   22.09kB/s    0:02:17       3211264  51%   22.57kB/s    0:02:12       3276800  52%   28.39kB/s    0:01:43       3342336  53%   34.46kB/s    0:01:23       3407872  54%   35.10kB/s    0:01:19       3473408  55%   38.73kB/s    0:01:10       3538944  57%   39.11kB/s    0:01:08       3604480  58%   36.59kB/s    0:01:11       3670016  59%   46.42kB/s    0:00:54       3735552  60%   45.06kB/s    0:00:54       3801088  61%   41.16kB/s    0:00:58       3833856  61%   36.68kB/s    0:01:04       3866624  62%   30.70kB/s    0:01:16       3899392  62%   29.05kB/s    0:01:19       3964928  63%   28.87kB/s    0:01:17       4030464  64%   31.42kB/s    0:01:09       4063232  65%   32.03kB/s    0:01:06       4096000  65%   32.15kB/s    0:01:05       4161536  67%   28.73kB/s    0:01:11       4227072  68%   31.01kB/s    0:01:03       4292608  69%   34.20kB/s    0:00:55       4358144  70%   37.95kB/s    0:00:48       4423680  71%   42.23kB/s    0:00:42       4456448  71%   40.27kB/s    0:00:43       4521984  72%   30.97kB/s    0:00:54       4587520  73%   28.39kB/s    0:00:57       4653056  74%   30.37kB/s    0:00:51       4718592  76%   32.68kB/s    0:00:45       4751360  76%   38.34kB/s    0:00:37       4784128  77%   37.94kB/s    0:00:37       4816896  77%   32.21kB/s    0:00:43       4882432  78%   31.66kB/s    0:00:41       4915200  79%   29.93kB/s    0:00:43       4947968  79%   25.62kB/s    0:00:49       5013504  80%   28.57kB/s    0:00:41       5079040  81%   30.54kB/s    0:00:36       5144576  82%   32.19kB/s    0:00:33       5210112  83%   39.07kB/s    0:00:25       5275648  84%   40.93kB/s    0:00:22       5308416  85%   34.07kB/s    0:00:26       5373952  86%   34.86kB/s    0:00:23       5439488  87%   37.20kB/s    0:00:20       5472256  88%   34.46kB/s    0:00:21       5505024  88%   36.64kB/s    0:00:19       5570560  89%   38.38kB/s    0:00:16       5636096  90%   35.37kB/s    0:00:16       5668864  91%   34.41kB/s    0:00:15       5734400  92%   40.68kB/s    0:00:11       5832704  93%   47.62kB/s    0:00:07       5898240  95%   48.65kB/s    0:00:06       5963776  96%   53.03kB/s    0:00:04       6029312  97%   46.22kB/s    0:00:03       6094848  98%   37.57kB/s    0:00:03       6127616  98%   33.87kB/s    0:00:02       6193152  99%   35.14kB/s    0:00:00       6207652 100%   35.60kB/s    0:02:50 (xfer#78, to-check=1023/194351)
+packages/source/p/pymorphy2-dicts/pymorphy2-dicts-2.4.389981.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   0%   12.74kB/s    0:08:48         98304   1%   17.61kB/s    0:06:18        131072   1%   19.58kB/s    0:05:39        163840   2%   21.07kB/s    0:05:13        196608   2%   25.83kB/s    0:04:14        262144   3%   34.21kB/s    0:03:10        327680   4%   40.14kB/s    0:02:40        393216   5%   42.20kB/s    0:02:31        458752   6%   46.49kB/s    0:02:15        524288   7%   45.16kB/s    0:02:18        557056   8%   40.82kB/s    0:02:32        589824   8%   37.55kB/s    0:02:44        622592   9%   31.50kB/s    0:03:15        655360   9%   28.43kB/s    0:03:35        720896  10%   30.58kB/s    0:03:17        753664  11%   30.06kB/s    0:03:20        819200  12%   31.26kB/s    0:03:10        851968  12%   26.96kB/s    0:03:39        884736  13%   21.51kB/s    0:04:33        950272  14%   25.83kB/s    0:03:45       1015808  15%   27.95kB/s    0:03:25       1081344  15%   33.01kB/s    0:02:52       1146880  16%   33.64kB/s    0:02:47       1179648  17%   29.11kB/s    0:03:12       1277952  18%   32.56kB/s    0:02:48       1343488  19%   35.50kB/s    0:02:32       1409024  20%   44.24kB/s    0:02:01       1474560  21%   46.70kB/s    0:01:53       1507328  22%   40.22kB/s    0:02:10       1572864  23%   40.09kB/s    0:02:09       1671168  24%   35.33kB/s    0:02:24       1736704  25%   35.35kB/s    0:02:22       1769472  26%   34.23kB/s    0:02:26       1802240  26%   29.53kB/s    0:02:48       1867776  27%   31.80kB/s    0:02:34       1933312  28%   32.24kB/s    0:02:30       1998848  29%   35.64kB/s    0:02:13       2064384  30%   40.49kB/s    0:01:56       2162688  31%   45.35kB/s    0:01:41       2195456  32%   43.99kB/s    0:01:44       2260992  33%   40.14kB/s    0:01:52       2293760  33%   37.35kB/s    0:01:59       2359296  34%   30.64kB/s    0:02:24       2424832  35%   34.66kB/s    0:02:05       2523136  37%   46.60kB/s    0:01:31       2621440  38%   55.78kB/s    0:01:14       2686976  39%   62.11kB/s    0:01:05       2752512  40%   60.06kB/s    0:01:06       2818048  41%   51.38kB/s    0:01:16       2850816  42%   41.63kB/s    0:01:34       2916352  43%   43.02kB/s    0:01:29       2981888  44%   41.85kB/s    0:01:30       3014656  44%   38.04kB/s    0:01:38       3047424  45%   34.56kB/s    0:01:47       3112960  45%   28.58kB/s    0:02:08       3145728  46%   25.59kB/s    0:02:21       3178496  46%   24.76kB/s    0:02:25       3244032  47%   30.51kB/s    0:01:55       3342336  49%   42.29kB/s    0:01:21       3407872  50%   47.20kB/s    0:01:11       3473408  51%   53.26kB/s    0:01:01       3538944  52%   51.06kB/s    0:01:03       3604480  53%   46.49kB/s    0:01:08       3670016  54%   46.46kB/s    0:01:06       3735552  55%   44.08kB/s    0:01:08       3801088  56%   49.32kB/s    0:01:00       3866624  57%   47.57kB/s    0:01:01       3964928  58%   55.37kB/s    0:00:50       4063232  60%   69.57kB/s    0:00:38       4161536  61%   75.02kB/s    0:00:34       4227072  62%   79.55kB/s    0:00:31       4292608  63%   72.01kB/s    0:00:34       4358144  64%   58.84kB/s    0:00:41       4423680  65%   48.08kB/s    0:00:48       4489216  66%   44.72kB/s    0:00:51       4521984  66%   37.99kB/s    0:00:59       4587520  67%   34.99kB/s    0:01:02       4653056  68%   33.78kB/s    0:01:02       4718592  69%   33.49kB/s    0:01:01       4784128  70%   39.13kB/s    0:00:50       4849664  71%   45.26kB/s    0:00:42       4882432  72%   40.41kB/s    0:00:46       4947968  73%   36.54kB/s    0:00:49       5013504  74%   35.79kB/s    0:00:49       5046272  74%   31.51kB/s    0:00:54       5079040  75%   34.66kB/s    0:00:48       5144576  75%   36.98kB/s    0:00:44       5177344  76%   32.36kB/s    0:00:49       5242880  77%   29.89kB/s    0:00:51       5308416  78%   35.28kB/s    0:00:41       5341184  78%   33.67kB/s    0:00:42       5373952  79%   33.98kB/s    0:00:41       5406720  79%   36.88kB/s    0:00:37       5439488  80%   28.67kB/s    0:00:46       5505024  81%   29.99kB/s    0:00:42       5537792  81%   30.08kB/s    0:00:41       5570560  82%   30.98kB/s    0:00:38       5636096  83%   36.85kB/s    0:00:30       5701632  84%   39.85kB/s    0:00:26       5767168  85%   41.34kB/s    0:00:24       5832704  86%   41.79kB/s    0:00:22       5898240  87%   40.22kB/s    0:00:21       5963776  88%   37.71kB/s    0:00:21       6029312  89%   37.35kB/s    0:00:19       6094848  90%   37.99kB/s    0:00:17       6127616  90%   32.61kB/s    0:00:19       6193152  91%   34.16kB/s    0:00:16       6258688  92%   34.78kB/s    0:00:14       6324224  93%   37.10kB/s    0:00:12       6389760  94%   46.01kB/s    0:00:08       6455296  95%   45.67kB/s    0:00:06       6488064  95%   39.57kB/s    0:00:07       6553600  96%   38.30kB/s    0:00:05       6619136  97%   35.83kB/s    0:00:04       6684672  98%   39.35kB/s    0:00:02       6771907 100%   38.53kB/s    0:02:51 (xfer#79, to-check=1022/194351)
+packages/source/p/pymorphy2-dicts/pymorphy2-dicts-2.4.389981.zip
+           0   0%    0.00kB/s    0:00:00         32768   0%   15.50kB/s    0:07:16         98304   1%   27.12kB/s    0:04:07        163840   2%   34.17kB/s    0:03:14        229376   3%   37.64kB/s    0:02:54        262144   3%   45.04kB/s    0:02:25        294912   4%   38.91kB/s    0:02:47        327680   4%   30.59kB/s    0:03:31        393216   5%   26.82kB/s    0:03:58        458752   6%   31.69kB/s    0:03:20        524288   7%   37.53kB/s    0:02:47        589824   8%   44.43kB/s    0:02:19        655360   9%   47.22kB/s    0:02:10        720896  10%   44.80kB/s    0:02:15        786432  11%   46.05kB/s    0:02:10        851968  12%   44.70kB/s    0:02:13        917504  13%   48.53kB/s    0:02:01        983040  14%   49.87kB/s    0:01:56       1048576  15%   50.61kB/s    0:01:53       1114112  16%   53.05kB/s    0:01:47       1179648  17%   52.10kB/s    0:01:47       1245184  18%   49.34kB/s    0:01:52       1310720  19%   47.48kB/s    0:01:55       1343488  19%   37.79kB/s    0:02:24       1376256  20%   32.81kB/s    0:02:45       1441792  21%   36.53kB/s    0:02:26       1507328  22%   32.30kB/s    0:02:43       1572864  23%   38.90kB/s    0:02:14       1638400  24%   42.48kB/s    0:02:01       1703936  25%   41.22kB/s    0:02:03       1769472  26%   47.99kB/s    0:01:44       1835008  26%   47.35kB/s    0:01:44       1900544  27%   50.82kB/s    0:01:36       1966080  28%   52.65kB/s    0:01:31       2031616  29%   51.88kB/s    0:01:31       2097152  30%   54.20kB/s    0:01:26       2162688  31%   55.48kB/s    0:01:23       2228224  32%   44.80kB/s    0:01:41       2293760  33%   43.52kB/s    0:01:43       2359296  34%   43.27kB/s    0:01:42       2457600  36%   44.90kB/s    0:01:36       2523136  37%   53.60kB/s    0:01:19       2588672  38%   53.16kB/s    0:01:19       2654208  39%   53.14kB/s    0:01:17       2719744  40%   50.96kB/s    0:01:20       2785280  40%   49.59kB/s    0:01:20       2818048  41%   45.29kB/s    0:01:27       2850816  41%   32.16kB/s    0:02:02       2916352  42%   27.96kB/s    0:02:18       2981888  43%   26.98kB/s    0:02:21       3047424  44%   30.51kB/s    0:02:02       3112960  45%   38.13kB/s    0:01:36       3145728  46%   38.52kB/s    0:01:34       3211264  47%   38.69kB/s    0:01:32       3276800  48%   34.99kB/s    0:01:40       3342336  49%   38.61kB/s    0:01:29       3407872  50%   41.11kB/s    0:01:22       3473408  51%   43.21kB/s    0:01:16       3506176  51%   45.25kB/s    0:01:12       3571712  52%   37.65kB/s    0:01:25       3637248  53%   37.07kB/s    0:01:25       3702784  54%   35.25kB/s    0:01:27       3801088  55%   42.14kB/s    0:01:11       3866624  56%   50.55kB/s    0:00:57       3964928  58%   55.12kB/s    0:00:51       3997696  58%   49.67kB/s    0:00:56       4063232  59%   45.61kB/s    0:00:59       4096000  60%   37.66kB/s    0:01:11       4161536  61%   30.44kB/s    0:01:26       4227072  62%   36.94kB/s    0:01:09       4325376  63%   41.22kB/s    0:00:59       4390912  64%   43.28kB/s    0:00:55       4456448  65%   51.42kB/s    0:00:45       4554752  67%   51.54kB/s    0:00:43       4620288  67%   50.07kB/s    0:00:43       4685824  68%   58.54kB/s    0:00:36       4784128  70%   60.34kB/s    0:00:33       4849664  71%   62.49kB/s    0:00:31       4915200  72%   59.88kB/s    0:00:31       4980736  73%   57.92kB/s    0:00:31       5046272  74%   51.52kB/s    0:00:33       5111808  75%   37.49kB/s    0:00:44       5177344  76%   37.32kB/s    0:00:43       5275648  77%   40.46kB/s    0:00:37       5341184  78%   41.12kB/s    0:00:35       5439488  80%   57.38kB/s    0:00:23       5505024  80%   55.18kB/s    0:00:23       5537792  81%   40.78kB/s    0:00:30       5603328  82%   42.62kB/s    0:00:28       5701632  83%   43.16kB/s    0:00:25       5799936  85%   51.72kB/s    0:00:19       5898240  86%   67.72kB/s    0:00:13       5963776  87%   66.62kB/s    0:00:12       6029312  88%   63.95kB/s    0:00:12       6062080  89%   51.72kB/s    0:00:14       6127616  90%   39.37kB/s    0:00:17       6160384  90%   33.49kB/s    0:00:19       6225920  91%   32.09kB/s    0:00:17       6291456  92%   36.89kB/s    0:00:13       6356992  93%   41.89kB/s    0:00:10       6422528  94%   47.94kB/s    0:00:07       6488064  95%   48.70kB/s    0:00:06       6520832  95%   43.61kB/s    0:00:06       6553600  96%   38.32kB/s    0:00:06       6619136  97%   35.45kB/s    0:00:05       6651904  97%   31.34kB/s    0:00:04       6717440  98%   34.56kB/s    0:00:02       6782976  99%   40.36kB/s    0:00:00       6797931 100%   43.62kB/s    0:02:32 (xfer#80, to-check=1021/194351)
+packages/source/p/pynesim/
+packages/source/p/pynesim/pynesim-0.2-dev.tar.gz
+           0   0%    0.00kB/s    0:00:00         89608   3%   72.14kB/s    0:00:30        187912   8%   68.17kB/s    0:00:30        253448  11%   64.81kB/s    0:00:30        349915  15%   66.24kB/s    0:00:28        415451  18%   63.34kB/s    0:00:29        480987  21%   62.67kB/s    0:00:28        546523  24%   52.05kB/s    0:00:32        612059  27%   45.57kB/s    0:00:36        677595  30%   38.66kB/s    0:00:40        743131  32%   33.46kB/s    0:00:45        808667  35%   37.10kB/s    0:00:39        874203  38%   37.25kB/s    0:00:37        939739  41%   42.31kB/s    0:00:31       1005275  44%   50.99kB/s    0:00:24       1070811  47%   50.91kB/s    0:00:23       1133821  50%   50.33kB/s    0:00:22       1199357  53%   51.26kB/s    0:00:20       1264893  56%   42.35kB/s    0:00:23       1330429  58%   40.60kB/s    0:00:22       1367345  60%   39.20kB/s    0:00:22       1432881  63%   36.54kB/s    0:00:22       1531185  67%   46.29kB/s    0:00:15       1629489  72%   54.91kB/s    0:00:11       1727793  76%   58.51kB/s    0:00:09       1760561  78%   56.50kB/s    0:00:08       1826097  80%   49.05kB/s    0:00:08       1858865  82%   39.10kB/s    0:00:10       1924401  85%   33.51kB/s    0:00:09       1989937  88%   33.57kB/s    0:00:07       2022705  89%   31.09kB/s    0:00:07       2088241  92%   33.79kB/s    0:00:04       2153777  95%   34.36kB/s    0:00:03       2219313  98%   39.45kB/s    0:00:00       2257074 100%   45.65kB/s    0:00:48 (xfer#81, to-check=1000/194425)
+packages/source/p/pypkg/
+packages/source/p/pypkg/pypkg-0.0.3.zip
+           0   0%    0.00kB/s    0:00:00         11774 100%   11.23MB/s    0:00:00 (xfer#82, to-check=1010/195246)
+packages/source/p/pyramid_hsts/
+packages/source/p/pyramid_hsts/pyramid_hsts-1.1.2.tar.gz
+           0   0%    0.00kB/s    0:00:00          5645 100%    5.38MB/s    0:00:00 (xfer#83, to-check=1006/196172)
+packages/source/p/pyramid_postmark/
+packages/source/p/pyramid_postmark/pyramid_postmark-0.3.2.tar.gz
+           0   0%    0.00kB/s    0:00:00          6627 100%    6.32MB/s    0:00:00 (xfer#84, to-check=1004/196315)
+packages/source/p/python-dateutil/
+packages/source/p/python-dateutil/python-dateutil-2.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536  25%   32.90kB/s    0:00:05         98304  37%   30.03kB/s    0:00:05        163840  63%   33.72kB/s    0:00:02        196608  75%   32.36kB/s    0:00:01        259085 100%   39.23kB/s    0:00:06 (xfer#85, to-check=1000/198852)
+packages/source/p/python-liblockfile/
+packages/source/p/python-liblockfile/python-liblockfile-0.1.tar.gz
+           0   0%    0.00kB/s    0:00:00          2766 100%    2.64MB/s    0:00:00 (xfer#86, to-check=1001/199503)
+packages/source/p/python2-pythondialog/
+packages/source/p/python2-pythondialog/python2-pythondialog-3.0.1.tar.bz2
+           0   0%    0.00kB/s    0:00:00         76177 100%   77.90kB/s    0:00:00 (xfer#87, to-check=1016/200768)
+packages/source/p/python2-pythondialog/python2-pythondialog-3.0.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536  67%   53.96kB/s    0:00:00         97276 100%   80.10kB/s    0:00:01 (xfer#88, to-check=1015/200768)
+packages/source/p/pythondialog/
+packages/source/p/pythondialog/pythondialog-3.0.1.tar.bz2
+           0   0%    0.00kB/s    0:00:00         65536  90%   58.77kB/s    0:00:00         72645 100%   65.08kB/s    0:00:01 (xfer#89, to-check=1019/200868)
+packages/source/p/pythondialog/pythondialog-3.0.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536  71%   54.05kB/s    0:00:00         91814 100%   75.73kB/s    0:00:01 (xfer#90, to-check=1018/200868)
+packages/source/q/quoter/
+packages/source/q/quoter/quoter-1.0.1.tar.gz
+           0   0%    0.00kB/s    0:00:00         16966 100%   16.18MB/s    0:00:00 (xfer#91, to-check=1126/203408)
+packages/source/q/quoter/quoter-1.0.1.zip
+           0   0%    0.00kB/s    0:00:00         24057 100%   21.65kB/s    0:00:01 (xfer#92, to-check=1125/203408)
+packages/source/q/quoter/quoter-1.0.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         16862 100%   11.28kB/s    0:00:01 (xfer#93, to-check=1124/203408)
+packages/source/q/quoter/quoter-1.0.2.zip
+           0   0%    0.00kB/s    0:00:00         23973 100%   22.86MB/s    0:00:00 (xfer#94, to-check=1123/203408)
+packages/source/r/rux/
+packages/source/r/rux/rux-0.5.3.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768  45%   20.43kB/s    0:00:01         72216 100%   45.01kB/s    0:00:01 (xfer#95, to-check=1972/211519)
+packages/source/r/ryu/
+packages/source/r/ryu/ryu-3.3.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   4%   23.56kB/s    0:00:27         98304  14%   37.59kB/s    0:00:15        131072  19%   35.83kB/s    0:00:15        196608  29%   37.30kB/s    0:00:12        262144  38%   45.21kB/s    0:00:09        327680  48%   44.23kB/s    0:00:07        393216  58%   49.80kB/s    0:00:05        425984  62%   48.69kB/s    0:00:05        491520  72%   40.58kB/s    0:00:04        557056  82%   35.77kB/s    0:00:03        589824  87%   30.55kB/s    0:00:02        655360  96%   35.67kB/s    0:00:00        676843 100%   41.24kB/s    0:00:16 (xfer#96, to-check=1940/211519)
+packages/source/s/sloth-ci/
+packages/source/s/sloth-ci/sloth-ci-0.2.5.tar.gz
+           0   0%    0.00kB/s    0:00:00          3480 100%    3.32MB/s    0:00:00 (xfer#97, to-check=1004/218019)
+packages/source/s/sloth-ci/sloth-ci-0.2.6.tar.gz
+           0   0%    0.00kB/s    0:00:00          3481 100%  141.64kB/s    0:00:00 (xfer#98, to-check=1003/218019)
+packages/source/s/sockjs-cyclone/
+packages/source/s/sockjs-cyclone/sockjs-cyclone-1.0.0.tar.gz
+           0   0%    0.00kB/s    0:00:00         19755 100%   18.84MB/s    0:00:00 (xfer#99, to-check=1003/218711)
+packages/source/s/solve/
+packages/source/s/solve/solve-0.1.7.tar.gz
+           0   0%    0.00kB/s    0:00:00         17927 100%   17.10MB/s    0:00:00 (xfer#100, to-check=1004/218956)
+packages/source/t/
+packages/source/t/taal/
+packages/source/t/taal/taal-0.4.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         11419 100%   10.89MB/s    0:00:00 (xfer#101, to-check=1146/224676)
+packages/source/t/tarantool-queue/
+packages/source/t/tarantool-queue/tarantool-queue-0.1.1.tar.gz
+           0   0%    0.00kB/s    0:00:00          7476 100%    5.12kB/s    0:00:01 (xfer#102, to-check=1017/224896)
+packages/source/t/tarantool-queue/tarantool-queue-0.1.1.zip
+           0   0%    0.00kB/s    0:00:00         10572 100%   10.08MB/s    0:00:00 (xfer#103, to-check=1016/224896)
+packages/source/t/tendenci/
+packages/source/t/tendenci/tendenci-5.1.226.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536   0%   47.09kB/s    0:03:54        131072   1%   44.49kB/s    0:04:06        196608   1%   46.84kB/s    0:03:52        294912   2%   53.45kB/s    0:03:21        360448   3%   57.22kB/s    0:03:07        458752   4%   67.85kB/s    0:02:36        524288   4%   66.20kB/s    0:02:39        589824   5%   60.30kB/s    0:02:54        655360   5%   59.65kB/s    0:02:54        753664   6%   59.09kB/s    0:02:54        851968   7%   66.76kB/s    0:02:33        950272   8%   71.72kB/s    0:02:21       1015808   9%   64.99kB/s    0:02:34       1048576   9%   53.43kB/s    0:03:07       1114112  10%   48.88kB/s    0:03:23       1179648  10%   45.61kB/s    0:03:37       1245184  11%   50.56kB/s    0:03:14       1310720  11%   54.08kB/s    0:03:00       1376256  12%   52.56kB/s    0:03:04       1441792  13%   49.94kB/s    0:03:13       1507328  13%   46.54kB/s    0:03:25       1572864  14%   47.02kB/s    0:03:22       1671168  15%   48.36kB/s    0:03:14       1736704  15%   41.55kB/s    0:03:44       1769472  15%   38.12kB/s    0:04:04       1835008  16%   36.84kB/s    0:04:11       1867776  16%   29.98kB/s    0:05:07       1933312  17%   30.93kB/s    0:04:55       1966080  17%   30.87kB/s    0:04:55       2031616  18%   32.32kB/s    0:04:40       2097152  18%   37.67kB/s    0:03:58       2162688  19%   42.00kB/s    0:03:32       2228224  20%   46.25kB/s    0:03:11       2293760  20%   47.45kB/s    0:03:05       2359296  21%   47.84kB/s    0:03:02       2424832  21%   49.13kB/s    0:02:56       2523136  22%   52.50kB/s    0:02:43       2588672  23%   51.42kB/s    0:02:45       2654208  23%   50.10kB/s    0:02:48       2719744  24%   49.67kB/s    0:02:48       2785280  25%   40.60kB/s    0:03:24       2850816  25%   36.72kB/s    0:03:44       2883584  26%   33.28kB/s    0:04:06       2916352  26%   30.08kB/s    0:04:31       2981888  26%   34.01kB/s    0:03:58       3080192  27%   44.92kB/s    0:02:58       3178496  28%   55.77kB/s    0:02:21       3244032  29%   55.63kB/s    0:02:20       3309568  29%   59.04kB/s    0:02:11       3375104  30%   55.53kB/s    0:02:18       3440640  31%   46.99kB/s    0:02:42       3538944  31%   53.80kB/s    0:02:20       3604480  32%   52.80kB/s    0:02:21       3670016  33%   48.40kB/s    0:02:33       3702784  33%   46.95kB/s    0:02:37       3735552  33%   35.48kB/s    0:03:27       3801088  34%   33.70kB/s    0:03:36       3866624  34%   34.10kB/s    0:03:31       3932160  35%   38.64kB/s    0:03:05       3997696  36%   45.78kB/s    0:02:34       4063232  36%   49.54kB/s    0:02:21       4128768  37%   53.92kB/s    0:02:09       4194304  37%   54.50kB/s    0:02:06       4259840  38%   52.37kB/s    0:02:10       4325376  39%   50.37kB/s    0:02:14       4390912  39%   51.54kB/s    0:02:09       4489216  40%   54.82kB/s    0:02:00       4554752  41%   58.34kB/s    0:01:51       4620288  41%   61.17kB/s    0:01:45       4685824  42%   56.51kB/s    0:01:53       4751360  42%   46.97kB/s    0:02:14       4816896  43%   43.36kB/s    0:02:24       4915200  44%   45.06kB/s    0:02:16       4980736  44%   43.63kB/s    0:02:19       5013504  45%   43.00kB/s    0:02:21       5046272  45%   40.23kB/s    0:02:30       5079040  45%   31.00kB/s    0:03:13       5144576  46%   30.90kB/s    0:03:12       5210112  46%   32.90kB/s    0:02:58       5275648  47%   36.07kB/s    0:02:41       5341184  48%   39.95kB/s    0:02:23       5406720  48%   44.57kB/s    0:02:07       5505024  49%   55.94kB/s    0:01:39       5570560  50%   62.60kB/s    0:01:28       5636096  50%   66.07kB/s    0:01:22       5734400  51%   66.56kB/s    0:01:20       5799936  52%   54.77kB/s    0:01:36       5865472  52%   54.62kB/s    0:01:35       5931008  53%   54.65kB/s    0:01:34       5996544  54%   50.07kB/s    0:01:41       6062080  54%   50.05kB/s    0:01:40       6094848  54%   42.65kB/s    0:01:57       6127616  55%   35.93kB/s    0:02:17       6160384  55%   29.84kB/s    0:02:45       6225920  56%   28.35kB/s    0:02:51       6291456  56%   31.95kB/s    0:02:30       6356992  57%   35.10kB/s    0:02:14       6455296  58%   44.70kB/s    0:01:43       6520832  58%   49.70kB/s    0:01:31       6586368  59%   54.51kB/s    0:01:22       6684672  60%   68.29kB/s    0:01:04       6782976  61%   70.61kB/s    0:01:00       6848512  61%   74.37kB/s    0:00:56       6914048  62%   71.10kB/s    0:00:58       6979584  62%   57.06kB/s    0:01:11       7012352  63%   42.75kB/s    0:01:35       7077888  63%   36.55kB/s    0:01:49       7143424  64%   35.95kB/s    0:01:49       7208960  65%   34.24kB/s    0:01:53       7274496  65%   37.94kB/s    0:01:40       7340032  66%   42.45kB/s    0:01:28       7438336  67%   47.56kB/s    0:01:16       7503872  67%   48.94kB/s    0:01:13       7569408  68%   47.56kB/s    0:01:13       7634944  68%   45.38kB/s    0:01:16       7667712  69%   36.81kB/s    0:01:32       7733248  69%   38.04kB/s    0:01:28       7798784  70%   36.81kB/s    0:01:29       7831552  70%   33.39kB/s    0:01:37       7897088  71%   37.10kB/s    0:01:25       7962624  71%   39.76kB/s    0:01:18       8060928  72%   50.25kB/s    0:01:00       8159232  73%   57.39kB/s    0:00:50       8224768  74%   56.17kB/s    0:00:50       8290304  74%   50.67kB/s    0:00:55       8388608  75%   51.18kB/s    0:00:52       8486912  76%   54.68kB/s    0:00:47       8585216  77%   59.66kB/s    0:00:41       8650752  78%   63.93kB/s    0:00:38       8716288  78%   55.41kB/s    0:00:42       8781824  79%   46.55kB/s    0:00:49       8847360  79%   42.80kB/s    0:00:52       8912896  80%   44.34kB/s    0:00:49       8978432  80%   43.81kB/s    0:00:48       9011200  81%   41.46kB/s    0:00:50       9043968  81%   34.66kB/s    0:00:58       9109504  82%   31.77kB/s    0:01:02       9142272  82%   29.55kB/s    0:01:05       9175040  82%   30.65kB/s    0:01:02       9240576  83%   36.05kB/s    0:00:51       9273344  83%   30.49kB/s    0:00:59       9306112  83%   30.45kB/s    0:00:58       9338880  84%   29.21kB/s    0:00:59       9404416  84%   31.68kB/s    0:00:53       9469952  85%   40.56kB/s    0:00:39       9535488  86%   48.13kB/s    0:00:32       9633792  86%   51.66kB/s    0:00:28       9666560  87%   47.14kB/s    0:00:30       9732096  87%   45.85kB/s    0:00:29       9830400  88%   48.59kB/s    0:00:25       9928704  89%   50.77kB/s    0:00:22       9961472  89%   44.80kB/s    0:00:25      10027008  90%   39.81kB/s    0:00:26      10092544  91%   36.03kB/s    0:00:27      10190848  91%   38.52kB/s    0:00:23      10256384  92%   47.44kB/s    0:00:17      10321920  93%   58.38kB/s    0:00:13      10420224  93%   61.19kB/s    0:00:10      10452992  94%   46.04kB/s    0:00:13      10518528  94%   43.80kB/s    0:00:12      10551296  95%   38.03kB/s    0:00:14      10616832  95%   31.02kB/s    0:00:15      10682368  96%   40.16kB/s    0:00:10      10747904  96%   41.33kB/s    0:00:08      10813440  97%   43.36kB/s    0:00:06      10878976  98%   47.72kB/s    0:00:04      10944512  98%   48.50kB/s    0:00:02      11042816  99%   50.71kB/s    0:00:00      11086000 100%   46.16kB/s    0:03:54 (xfer#104, to-check=1079/225677)
+packages/source/t/tmuxp/
+packages/source/t/tmuxp/tmuxp-0.0.32.tar.gz
+           0   0%    0.00kB/s    0:00:00         56989 100%  140.54kB/s    0:00:00 (xfer#105, to-check=1008/229007)
+packages/source/t/tmuxp/tmuxp-0.0.33.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768  57%   21.14kB/s    0:00:01         57100 100%   36.81kB/s    0:00:01 (xfer#106, to-check=1007/229007)
+packages/source/t/toc/
+packages/source/t/toc/toc-0.0.7.tar.gz
+           0   0%    0.00kB/s    0:00:00          1728 100%   17.95kB/s    0:00:00 (xfer#107, to-check=1004/229065)
+packages/source/t/toc/toc-0.0.8.tar.gz
+           0   0%    0.00kB/s    0:00:00          1726 100%   17.93kB/s    0:00:00 (xfer#108, to-check=1003/229065)
+packages/source/t/todotxt-machine/
+packages/source/t/todotxt-machine/todotxt-machine-1.0.3.tar.gz
+           0   0%    0.00kB/s    0:00:00         26219 100%   31.97kB/s    0:00:00 (xfer#109, to-check=1007/229116)
+packages/source/t/tomcom.plone.easyvoc/
+packages/source/t/tomcom.plone.easyvoc/tomcom.plone.easyvoc-4.3.0.2.zip
+           0   0%    0.00kB/s    0:00:00         15612 100%   13.41kB/s    0:00:01 (xfer#110, to-check=1022/229170)
+packages/source/t/toolshed/
+packages/source/t/toolshed/toolshed-0.3.2.tar.gz
+           0   0%    0.00kB/s    0:00:00          9104 100%    8.68MB/s    0:00:00 (xfer#111, to-check=1007/229290)
+packages/source/t/transporter/
+packages/source/t/transporter/transporter-0.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         32710 100%   31.19MB/s    0:00:00 (xfer#112, to-check=1005/230141)
+packages/source/t/tsquare/tsquare-0.2.tar.gz
+           0   0%    0.00kB/s    0:00:00          7144 100%    6.81MB/s    0:00:00 (xfer#113, to-check=1001/231932)
+packages/source/t/tuskar-ui/
+packages/source/t/tuskar-ui/tuskar-ui-0.0.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         98304  23%   76.37kB/s    0:00:04        163840  38%   61.23kB/s    0:00:04        196608  46%   50.49kB/s    0:00:04        262144  62%   52.59kB/s    0:00:03        360448  85%   51.57kB/s    0:00:01        421564 100%   62.15kB/s    0:00:06 (xfer#114, to-check=1008/232195)
+packages/source/t/tuskar/
+packages/source/t/tuskar/tuskar-0.0.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         32768   5%   14.31kB/s    0:00:36         65536  11%   19.49kB/s    0:00:25        131072  23%   25.75kB/s    0:00:16        196608  35%   27.32kB/s    0:00:13        229376  41%   32.70kB/s    0:00:09        262144  47%   31.88kB/s    0:00:09        327680  59%   30.16kB/s    0:00:07        393216  70%   35.19kB/s    0:00:04        458752  82%   40.17kB/s    0:00:02        524288  94%   37.97kB/s    0:00:00        554136 100%   33.72kB/s    0:00:16 (xfer#115, to-check=1007/232195)
+packages/source/u/ufo2otf/
+packages/source/u/ufo2otf/ufo2otf-0.2.2.tar.gz
+           0   0%    0.00kB/s    0:00:00         26886 100%   25.64MB/s    0:00:00 (xfer#116, to-check=1002/234177)
+packages/source/v/valhalla/
+packages/source/v/valhalla/valhalla-0.0.11.tar.gz
+           0   0%    0.00kB/s    0:00:00         17109 100%   16.32MB/s    0:00:00 (xfer#117, to-check=1008/235513)
+packages/source/v/valhalla/valhalla-0.0.12.tar.gz
+           0   0%    0.00kB/s    0:00:00         17111 100%   54.25kB/s    0:00:00 (xfer#118, to-check=1007/235513)
+packages/source/w/warehouse/
+packages/source/w/warehouse/warehouse-13.11.0.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536   3%   44.11kB/s    0:00:36        131072   7%   51.80kB/s    0:00:29        196608  11%   54.18kB/s    0:00:27        294912  17%   54.24kB/s    0:00:25        360448  21%   57.82kB/s    0:00:22        425984  25%   57.03kB/s    0:00:21        491520  29%   54.15kB/s    0:00:21        557056  33%   49.85kB/s    0:00:22        589824  35%   43.21kB/s    0:00:25        655360  39%   34.22kB/s    0:00:29        720896  42%   33.87kB/s    0:00:28        753664  44%   31.21kB/s    0:00:29        819200  48%   36.41kB/s    0:00:23        917504  54%   48.71kB/s    0:00:15        983040  58%   44.56kB/s    0:00:15       1048576  62%   43.48kB/s    0:00:14       1081344  64%   36.44kB/s    0:00:16       1146880  68%   32.30kB/s    0:00:16       1212416  72%   33.35kB/s    0:00:13       1277952  76%   36.15kB/s    0:00:11       1343488  80%   39.06kB/s    0:00:08       1376256  82%   35.55kB/s    0:00:08       1409024  84%   33.15kB/s    0:00:08       1474560  87%   32.29kB/s    0:00:06       1540096  91%   32.85kB/s    0:00:04       1605632  95%   32.23kB/s    0:00:02       1676577 100%   40.73kB/s    0:00:40 (xfer#119, to-check=1002/237708)
+packages/source/x/
+packages/source/x/xlwt-future/
+packages/source/x/xlwt-future/xlwt-future-0.8.0.tar.gz
+           0   0%    0.00kB/s    0:00:00         65536   1%   58.29kB/s    0:00:58        131072   3%   60.98kB/s    0:00:55        196608   5%   57.18kB/s    0:00:57        262144   7%   52.48kB/s    0:01:01        360448  10%   55.80kB/s    0:00:56        425984  12%   54.24kB/s    0:00:56        491520  14%   51.50kB/s    0:00:58        524288  14%   49.81kB/s    0:00:59        589824  16%   42.49kB/s    0:01:08        655360  18%   41.80kB/s    0:01:08        720896  20%   45.59kB/s    0:01:01        786432  22%   48.75kB/s    0:00:55        851968  24%   44.98kB/s    0:00:58        917504  26%   46.23kB/s    0:00:55        983040  28%   40.46kB/s    0:01:02       1015808  29%   37.63kB/s    0:01:06       1081344  30%   41.87kB/s    0:00:57       1179648  33%   45.59kB/s    0:00:50       1277952  36%   57.38kB/s    0:00:38       1376256  39%   65.43kB/s    0:00:32       1474560  42%   61.36kB/s    0:00:33       1507328  43%   50.98kB/s    0:00:39       1572864  44%   44.05kB/s    0:00:43       1638400  46%   37.43kB/s    0:00:49       1703936  48%   38.47kB/s    0:00:46       1769472  50%   46.47kB/s    0:00:37       1835008  52%   51.17kB/s    0:00:32       1900544  54%   52.20kB/s    0:00:30       1933312  55%   44.79kB/s    0:00:35       1966080  56%   37.14kB/s    0:00:41       1998848  57%   28.23kB/s    0:00:53       2031616  58%   23.94kB/s    0:01:01       2097152  59%   29.91kB/s    0:00:46       2195456  62%   42.16kB/s    0:00:31       2293760  65%   54.35kB/s    0:00:22       2359296  67%   56.20kB/s    0:00:20       2424832  69%   53.65kB/s    0:00:20       2490368  71%   47.73kB/s    0:00:21       2555904  72%   43.29kB/s    0:00:21       2621440  74%   46.31kB/s    0:00:19       2686976  76%   51.25kB/s    0:00:15       2752512  78%   50.95kB/s    0:00:14       2785280  79%   46.58kB/s    0:00:15       2883584  82%   51.76kB/s    0:00:11       2949120  84%   51.25kB/s    0:00:10       3014656  86%   50.21kB/s    0:00:09       3080192  87%   56.94kB/s    0:00:07       3145728  89%   50.49kB/s    0:00:07       3178496  90%   44.87kB/s    0:00:07       3244032  92%   43.20kB/s    0:00:05       3309568  94%   37.25kB/s    0:00:05       3342336  95%   28.89kB/s    0:00:05       3375104  96%   28.46kB/s    0:00:04       3440640  98%   28.41kB/s    0:00:02       3502451 100%   45.71kB/s    0:01:14 (xfer#120, to-check=1006/240584)
+deleting serversig/BreezeDB
+serversig/
+serversig/DTL
+           0   0%    0.00kB/s    0:00:00            48 100%   46.88kB/s    0:00:00 (xfer#121, to-check=71469/319076)
+serversig/Dialogs
+           0   0%    0.00kB/s    0:00:00            47 100%    0.70kB/s    0:00:00 (xfer#122, to-check=71402/319076)
+serversig/Glances
+           0   0%    0.00kB/s    0:00:00            46 100%    0.68kB/s    0:00:00 (xfer#123, to-check=70604/319076)
+serversig/Gwilio
+           0   0%    0.00kB/s    0:00:00            46 100%    0.68kB/s    0:00:00 (xfer#124, to-check=70526/319076)
+serversig/MakeItSo
+           0   0%    0.00kB/s    0:00:00            48 100%    0.70kB/s    0:00:00 (xfer#125, to-check=70051/319076)
+serversig/Nikola
+           0   0%    0.00kB/s    0:00:00            47 100%    0.66kB/s    0:00:00 (xfer#126, to-check=69766/319076)
+serversig/PyODConverter
+           0   0%    0.00kB/s    0:00:00            47 100%    0.66kB/s    0:00:00 (xfer#127, to-check=68618/319076)
+serversig/PyVisa_Python3.3.2
+           0   0%    0.00kB/s    0:00:00            46 100%    0.64kB/s    0:00:00 (xfer#128, to-check=68428/319076)
+serversig/ReText
+           0   0%    0.00kB/s    0:00:00            46 100%    0.64kB/s    0:00:00 (xfer#129, to-check=68154/319076)
+serversig/RuSocSci
+           0   0%    0.00kB/s    0:00:00            47 100%    0.64kB/s    0:00:00 (xfer#130, to-check=68049/319076)
+serversig/SimplePake
+           0   0%    0.00kB/s    0:00:00            48 100%    0.64kB/s    0:00:00 (xfer#131, to-check=67789/319076)
+serversig/Solgema.fullcalendar
+           0   0%    0.00kB/s    0:00:00            46 100%    0.62kB/s    0:00:00 (xfer#132, to-check=67723/319076)
+serversig/ally
+           0   0%    0.00kB/s    0:00:00            47 100%    0.63kB/s    0:00:00 (xfer#133, to-check=66577/319076)
+serversig/ally-api
+           0   0%    0.00kB/s    0:00:00            46 100%    0.60kB/s    0:00:00 (xfer#134, to-check=66576/319076)
+serversig/ally-core
+           0   0%    0.00kB/s    0:00:00            48 100%    0.62kB/s    0:00:00 (xfer#135, to-check=66575/319076)
+serversig/ally-core-http
+           0   0%    0.00kB/s    0:00:00            46 100%    0.60kB/s    0:00:00 (xfer#136, to-check=66574/319076)
+serversig/ally-http
+           0   0%    0.00kB/s    0:00:00            47 100%    0.61kB/s    0:00:00 (xfer#137, to-check=66573/319076)
+serversig/ally-http-asyncore-server
+           0   0%    0.00kB/s    0:00:00            45 100%    0.58kB/s    0:00:00 (xfer#138, to-check=66572/319076)
+serversig/ally-http-mongrel2-server
+           0   0%    0.00kB/s    0:00:00            46 100%    0.59kB/s    0:00:00 (xfer#139, to-check=66571/319076)
+serversig/ally-indexing
+           0   0%    0.00kB/s    0:00:00            47 100%    0.60kB/s    0:00:00 (xfer#140, to-check=66570/319076)
+serversig/ally-plugin
+           0   0%    0.00kB/s    0:00:00            48 100%    0.62kB/s    0:00:00 (xfer#141, to-check=66569/319076)
+serversig/arklib
+           0   0%    0.00kB/s    0:00:00            46 100%    0.59kB/s    0:00:00 (xfer#142, to-check=66178/319076)
+serversig/avalon
+           0   0%    0.00kB/s    0:00:00            47 100%    0.60kB/s    0:00:00 (xfer#143, to-check=65838/319076)
+serversig/breezedb
+           0   0%    0.00kB/s    0:00:00            46 100%    0.59kB/s    0:00:00 (xfer#144, to-check=65051/319076)
+serversig/c2c.sqlalchemy.rest
+           0   0%    0.00kB/s    0:00:00            47 100%    0.60kB/s    0:00:00 (xfer#145, to-check=64773/319076)
+serversig/ceph-deploy
+           0   0%    0.00kB/s    0:00:00            48 100%    0.61kB/s    0:00:00 (xfer#146, to-check=64530/319076)
+serversig/charm-tools
+           0   0%    0.00kB/s    0:00:00            46 100%    0.58kB/s    0:00:00 (xfer#147, to-check=64459/319076)
+serversig/cow-framework
+           0   0%    0.00kB/s    0:00:00            46 100%    0.58kB/s    0:00:00 (xfer#148, to-check=62559/319076)
+serversig/darwinist
+           0   0%    0.00kB/s    0:00:00            47 100%    0.60kB/s    0:00:00 (xfer#149, to-check=62059/319076)
+serversig/devuart
+           0   0%    0.00kB/s    0:00:00            47 100%    0.43kB/s    0:00:00 (xfer#150, to-check=61755/319076)
+serversig/django-auth-policy
+           0   0%    0.00kB/s    0:00:00            47 100%    0.43kB/s    0:00:00 (xfer#151, to-check=61334/319076)
+serversig/django-axes
+           0   0%    0.00kB/s    0:00:00            46 100%    0.42kB/s    0:00:00 (xfer#152, to-check=61301/319076)
+serversig/django-bootstrap-admin
+           0   0%    0.00kB/s    0:00:00            47 100%    0.43kB/s    0:00:00 (xfer#153, to-check=61215/319076)
+serversig/django-custom-field
+           0   0%    0.00kB/s    0:00:00            47 100%    0.43kB/s    0:00:00 (xfer#154, to-check=60828/319076)
+serversig/django-dash
+           0   0%    0.00kB/s    0:00:00            47 100%    0.43kB/s    0:00:00 (xfer#155, to-check=60815/319076)
+serversig/django-jquery-tablesorter
+           0   0%    0.00kB/s    0:00:00            46 100%    0.42kB/s    0:00:00 (xfer#156, to-check=59960/319076)
+serversig/django-libs
+           0   0%    0.00kB/s    0:00:00            47 100%    0.43kB/s    0:00:00 (xfer#157, to-check=59872/319076)
+serversig/django-ostinato
+           0   0%    0.00kB/s    0:00:00            48 100%    0.44kB/s    0:00:00 (xfer#158, to-check=59391/319076)
+serversig/django-summernote
+           0   0%    0.00kB/s    0:00:00            46 100%    0.42kB/s    0:00:00 (xfer#159, to-check=58419/319076)
+serversig/django-swingers
+           0   0%    0.00kB/s    0:00:00            47 100%    0.43kB/s    0:00:00 (xfer#160, to-check=58405/319076)
+serversig/django-transadmin
+           0   0%    0.00kB/s    0:00:00            46 100%    0.42kB/s    0:00:00 (xfer#161, to-check=58217/319076)
+serversig/dood
+           0   0%    0.00kB/s    0:00:00            46 100%    0.42kB/s    0:00:00 (xfer#162, to-check=57423/319076)
+serversig/elpy
+           0   0%    0.00kB/s    0:00:00            47 100%    0.43kB/s    0:00:00 (xfer#163, to-check=56931/319076)
+serversig/eppy
+           0   0%    0.00kB/s    0:00:00            47 100%    0.43kB/s    0:00:00 (xfer#164, to-check=56778/319076)
+serversig/fbu
+           0   0%    0.00kB/s    0:00:00            47 100%    0.42kB/s    0:00:00 (xfer#165, to-check=56345/319076)
+serversig/gsh
+deleting simple/BreezeDB/index.html
+deleting simple/BreezeDB/
+           0   0%    0.00kB/s    0:00:00            48 100%   46.88kB/s    0:00:00 (xfer#166, to-check=54684/319076)
+serversig/gu-django-multihost
+           0   0%    0.00kB/s    0:00:00            46 100%    2.99kB/s    0:00:00 (xfer#167, to-check=54649/319076)
+serversig/halite
+           0   0%    0.00kB/s    0:00:00            48 100%    3.12kB/s    0:00:00 (xfer#168, to-check=54557/319076)
+serversig/hiveary-agent
+           0   0%    0.00kB/s    0:00:00            46 100%    2.81kB/s    0:00:00 (xfer#169, to-check=54293/319076)
+serversig/icoshift
+           0   0%    0.00kB/s    0:00:00            46 100%    2.81kB/s    0:00:00 (xfer#170, to-check=53897/319076)
+serversig/imglib
+           0   0%    0.00kB/s    0:00:00            46 100%    2.81kB/s    0:00:00 (xfer#171, to-check=53789/319076)
+serversig/ipkg
+           0   0%    0.00kB/s    0:00:00            47 100%    2.87kB/s    0:00:00 (xfer#172, to-check=53461/319076)
+serversig/isso
+           0   0%    0.00kB/s    0:00:00            46 100%    2.64kB/s    0:00:00 (xfer#173, to-check=53333/319076)
+serversig/kaaedit
+           0   0%    0.00kB/s    0:00:00            46 100%    1.95kB/s    0:00:00 (xfer#174, to-check=52624/319076)
+serversig/kotti_contactform
+           0   0%    0.00kB/s    0:00:00            47 100%    2.00kB/s    0:00:00 (xfer#175, to-check=52433/319076)
+serversig/kpages
+           0   0%    0.00kB/s    0:00:00            47 100%    2.00kB/s    0:00:00 (xfer#176, to-check=52396/319076)
+serversig/leo
+           0   0%    0.00kB/s    0:00:00            46 100%    1.87kB/s    0:00:00 (xfer#177, to-check=52110/319076)
+serversig/loggerclient
+           0   0%    0.00kB/s    0:00:00            47 100%    1.91kB/s    0:00:00 (xfer#178, to-check=51729/319076)
+serversig/mapclient
+           0   0%    0.00kB/s    0:00:00            46 100%    1.87kB/s    0:00:00 (xfer#179, to-check=51361/319076)
+serversig/minimalKB
+           0   0%    0.00kB/s    0:00:00            47 100%    1.91kB/s    0:00:00 (xfer#180, to-check=50833/319076)
+serversig/mistool
+           0   0%    0.00kB/s    0:00:00            48 100%    1.95kB/s    0:00:00 (xfer#181, to-check=50777/319076)
+serversig/murano-metadataclient
+           0   0%    0.00kB/s    0:00:00            47 100%    1.84kB/s    0:00:00 (xfer#182, to-check=50254/319076)
+serversig/nytimes
+           0   0%    0.00kB/s    0:00:00            47 100%    1.84kB/s    0:00:00 (xfer#183, to-check=49350/319076)
+serversig/penguinist
+           0   0%    0.00kB/s    0:00:00            47 100%    1.84kB/s    0:00:00 (xfer#184, to-check=48343/319076)
+serversig/periscope_daemon
+           0   0%    0.00kB/s    0:00:00            46 100%    0.96kB/s    0:00:00 (xfer#185, to-check=48310/319076)
+serversig/pyarmor
+           0   0%    0.00kB/s    0:00:00            47 100%    0.96kB/s    0:00:00 (xfer#186, to-check=46690/319076)
+serversig/pyaxon
+           0   0%    0.00kB/s    0:00:00            46 100%    0.94kB/s    0:00:00 (xfer#187, to-check=46660/319076)
+serversig/pyelasticsearch
+           0   0%    0.00kB/s    0:00:00            46 100%    0.94kB/s    0:00:00 (xfer#188, to-check=46332/319076)
+serversig/pykb
+           0   0%    0.00kB/s    0:00:00            47 100%    0.96kB/s    0:00:00 (xfer#189, to-check=45966/319076)
+serversig/pymc
+           0   0%    0.00kB/s    0:00:00            48 100%    0.98kB/s    0:00:00 (xfer#190, to-check=45809/319076)
+serversig/pymorphy2-dicts
+           0   0%    0.00kB/s    0:00:00            48 100%    0.96kB/s    0:00:00 (xfer#191, to-check=45746/319076)
+serversig/pynesim
+           0   0%    0.00kB/s    0:00:00            46 100%    0.92kB/s    0:00:00 (xfer#192, to-check=45710/319076)
+serversig/pypkg
+           0   0%    0.00kB/s    0:00:00            47 100%    0.94kB/s    0:00:00 (xfer#193, to-check=45505/319076)
+serversig/pyprintflow2
+           0   0%    0.00kB/s    0:00:00            47 100%    0.94kB/s    0:00:00 (xfer#194, to-check=45466/319076)
+serversig/pyramid_hsts
+           0   0%    0.00kB/s    0:00:00            47 100%    0.94kB/s    0:00:00 (xfer#195, to-check=45339/319076)
+serversig/pyramid_postmark
+           0   0%    0.00kB/s    0:00:00            48 100%    0.81kB/s    0:00:00 (xfer#196, to-check=45311/319076)
+serversig/python-dateutil
+           0   0%    0.00kB/s    0:00:00            47 100%    0.79kB/s    0:00:00 (xfer#197, to-check=44748/319076)
+serversig/python-liblockfile
+           0   0%    0.00kB/s    0:00:00            46 100%    0.76kB/s    0:00:00 (xfer#198, to-check=44582/319076)
+serversig/python2-pythondialog
+           0   0%    0.00kB/s    0:00:00            46 100%    0.76kB/s    0:00:00 (xfer#199, to-check=44262/319076)
+serversig/pythondialog
+           0   0%    0.00kB/s    0:00:00            47 100%    0.78kB/s    0:00:00 (xfer#200, to-check=44229/319076)
+serversig/pytoolbox
+           0   0%    0.00kB/s    0:00:00            46 100%    0.76kB/s    0:00:00 (xfer#201, to-check=44190/319076)
+serversig/quoter
+           0   0%    0.00kB/s    0:00:00            47 100%    0.76kB/s    0:00:00 (xfer#202, to-check=43767/319076)
+serversig/rux
+           0   0%    0.00kB/s    0:00:00            47 100%    0.76kB/s    0:00:00 (xfer#203, to-check=42519/319076)
+serversig/ryu
+           0   0%    0.00kB/s    0:00:00            47 100%    0.76kB/s    0:00:00 (xfer#204, to-check=42511/319076)
+serversig/service-assemblage
+           0   0%    0.00kB/s    0:00:00            46 100%    0.75kB/s    0:00:00 (xfer#205, to-check=41958/319076)
+serversig/service-cdm
+           0   0%    0.00kB/s    0:00:00            46 100%    0.75kB/s    0:00:00 (xfer#206, to-check=41957/319076)
+serversig/service-gateway
+           0   0%    0.00kB/s    0:00:00            46 100%    0.75kB/s    0:00:00 (xfer#207, to-check=41956/319076)
+serversig/sloth-ci
+           0   0%    0.00kB/s    0:00:00            47 100%    0.76kB/s    0:00:00 (xfer#208, to-check=41426/319076)
+serversig/sockjs-cyclone
+           0   0%    0.00kB/s    0:00:00            46 100%    0.74kB/s    0:00:00 (xfer#209, to-check=41257/319076)
+serversig/solve
+           0   0%    0.00kB/s    0:00:00            46 100%    0.74kB/s    0:00:00 (xfer#210, to-check=41217/319076)
+serversig/systematic
+           0   0%    0.00kB/s    0:00:00            46 100%    0.15kB/s    0:00:00 (xfer#211, to-check=40217/319076)
+serversig/taal
+           0   0%    0.00kB/s    0:00:00            48 100%    0.16kB/s    0:00:00 (xfer#212, to-check=40206/319076)
+serversig/tarantool-queue
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#213, to-check=40137/319076)
+serversig/tendenci
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#214, to-check=39980/319076)
+serversig/tmuxp
+           0   0%    0.00kB/s    0:00:00            46 100%    0.15kB/s    0:00:00 (xfer#215, to-check=39407/319076)
+serversig/toc
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#216, to-check=39396/319076)
+serversig/todotxt-machine
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#217, to-check=39386/319076)
+serversig/tomcom.plone.easyvoc
+           0   0%    0.00kB/s    0:00:00            46 100%    0.15kB/s    0:00:00 (xfer#218, to-check=39368/319076)
+serversig/toolshed
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#219, to-check=39345/319076)
+serversig/transporter
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#220, to-check=39159/319076)
+serversig/tsquare
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#221, to-check=38933/319076)
+serversig/tuskar
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#222, to-check=38873/319076)
+serversig/tuskar-ui
+           0   0%    0.00kB/s    0:00:00            46 100%    0.15kB/s    0:00:00 (xfer#223, to-check=38872/319076)
+serversig/ufo2otf
+           0   0%    0.00kB/s    0:00:00            46 100%    0.15kB/s    0:00:00 (xfer#224, to-check=38490/319076)
+serversig/ultimatum
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#225, to-check=38466/319076)
+serversig/valhalla
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#226, to-check=38231/319076)
+serversig/warehouse
+           0   0%    0.00kB/s    0:00:00            47 100%    0.15kB/s    0:00:00 (xfer#227, to-check=37874/319076)
+serversig/xlwt-future
+           0   0%    0.00kB/s    0:00:00            46 100%    0.14kB/s    0:00:00 (xfer#228, to-check=37198/319076)
+simple/
+simple/index.html
+           0   0%    0.00kB/s    0:00:00       1628791 100%    7.47MB/s    0:00:00 (xfer#229, to-check=37138/320076)
+simple/DTL/
+simple/DTL/index.html
+           0   0%    0.00kB/s    0:00:00          4992 100%    4.76MB/s    0:00:00 (xfer#230, to-check=1000/320881)
+simple/Dialogs/
+simple/Dialogs/index.html
+           0   0%    0.00kB/s    0:00:00           561 100%    0.45kB/s    0:00:01 (xfer#231, to-check=1000/320948)
+simple/Glances/
+simple/Glances/index.html
+           0   0%    0.00kB/s    0:00:00         26407 100%   25.18MB/s    0:00:00 (xfer#232, to-check=1000/321746)
+simple/Gwilio/
+simple/Gwilio/index.html
+           0   0%    0.00kB/s    0:00:00           546 100%  533.20kB/s    0:00:00 (xfer#233, to-check=1000/321824)
+simple/MakeItSo/
+simple/Nikola/
+simple/Nikola/index.html
+           0   0%    0.00kB/s    0:00:00          1122 100%    1.07MB/s    0:00:00 (xfer#234, to-check=1000/322584)
+simple/PyODConverter/
+simple/PyODConverter/index.html
+           0   0%    0.00kB/s    0:00:00           305 100%  297.85kB/s    0:00:00 (xfer#235, to-check=1000/323732)
+simple/PyVisa_Python3.3.2/
+simple/PyVisa_Python3.3.2/index.html
+           0   0%    0.00kB/s    0:00:00           156 100%  152.34kB/s    0:00:00 (xfer#236, to-check=1000/323922)
+simple/ReText/
+simple/ReText/index.html
+           0   0%    0.00kB/s    0:00:00           416 100%  406.25kB/s    0:00:00 (xfer#237, to-check=1000/324196)
+simple/RuSocSci/
+simple/RuSocSci/index.html
+           0   0%    0.00kB/s    0:00:00          1592 100%    1.52MB/s    0:00:00 (xfer#238, to-check=1000/324301)
+simple/SimplePake/
+simple/SimplePake/index.html
+           0   0%    0.00kB/s    0:00:00           444 100%  433.59kB/s    0:00:00 (xfer#239, to-check=1000/324561)
+simple/Solgema.fullcalendar/
+simple/Solgema.fullcalendar/index.html
+           0   0%    0.00kB/s    0:00:00          6161 100%    5.88MB/s    0:00:00 (xfer#240, to-check=1000/324627)
+simple/ally-api/
+simple/ally-api/index.html
+           0   0%    0.00kB/s    0:00:00           427 100%  416.99kB/s    0:00:00 (xfer#241, to-check=1000/325773)
+simple/ally-core-http/
+simple/ally-core-http/index.html
+           0   0%    0.00kB/s    0:00:00           475 100%    7.03kB/s    0:00:00 (xfer#242, to-check=1000/325774)
+simple/ally-core/
+simple/ally-core/index.html
+           0   0%    0.00kB/s    0:00:00           435 100%    6.44kB/s    0:00:00 (xfer#243, to-check=1000/325775)
+simple/ally-http-asyncore-server/
+simple/ally-http-asyncore-server/index.html
+           0   0%    0.00kB/s    0:00:00           563 100%    4.01kB/s    0:00:00 (xfer#244, to-check=1000/325776)
+simple/ally-http-mongrel2-server/
+simple/ally-http-mongrel2-server/index.html
+           0   0%    0.00kB/s    0:00:00           563 100%    4.01kB/s    0:00:00 (xfer#245, to-check=1000/325777)
+simple/ally-http/
+simple/ally-http/index.html
+           0   0%    0.00kB/s    0:00:00           435 100%    3.10kB/s    0:00:00 (xfer#246, to-check=1000/325778)
+simple/ally-indexing/
+simple/ally-indexing/index.html
+           0   0%    0.00kB/s    0:00:00           467 100%    1.83kB/s    0:00:00 (xfer#247, to-check=1000/325779)
+simple/ally-plugin/
+simple/ally-plugin/index.html
+           0   0%    0.00kB/s    0:00:00           451 100%    1.40kB/s    0:00:00 (xfer#248, to-check=1000/325780)
+simple/ally/
+simple/ally/index.html
+           0   0%    0.00kB/s    0:00:00           670 100%    1.72kB/s    0:00:00 (xfer#249, to-check=1000/325782)
+simple/arklib/
+simple/arklib/index.html
+           0   0%    0.00kB/s    0:00:00           570 100%  556.64kB/s    0:00:00 (xfer#250, to-check=1000/326172)
+simple/avalon/
+simple/avalon/index.html
+           0   0%    0.00kB/s    0:00:00           132 100%  128.91kB/s    0:00:00 (xfer#251, to-check=1000/326512)
+simple/breezedb/
+simple/breezedb/index.html
+           0   0%    0.00kB/s    0:00:00           736 100%  718.75kB/s    0:00:00 (xfer#252, to-check=1000/327299)
+simple/c2c.sqlalchemy.rest/
+simple/c2c.sqlalchemy.rest/index.html
+           0   0%    0.00kB/s    0:00:00          1258 100%    1.20MB/s    0:00:00 (xfer#253, to-check=1000/327577)
+simple/ceph-deploy/
+simple/ceph-deploy/index.html
+           0   0%    0.00kB/s    0:00:00          1390 100%    1.33MB/s    0:00:00 (xfer#254, to-check=1000/327820)
+simple/charm-tools/
+simple/charm-tools/index.html
+           0   0%    0.00kB/s    0:00:00           142 100%    0.10kB/s    0:00:01 (xfer#255, to-check=1000/327890)
+simple/clever/index.html
+           0   0%    0.00kB/s    0:00:00           842 100%  822.27kB/s    0:00:00 (xfer#256, to-check=1000/328097)
+simple/cow-framework/
+simple/cow-framework/index.html
+           0   0%    0.00kB/s    0:00:00          4714 100%    4.50MB/s    0:00:00 (xfer#257, to-check=1000/329791)
+simple/darwinist/
+simple/darwinist/index.html
+           0   0%    0.00kB/s    0:00:00           400 100%  390.62kB/s    0:00:00 (xfer#258, to-check=1000/330291)
+simple/devuart/
+simple/devuart/index.html
+           0   0%    0.00kB/s    0:00:00           134 100%  130.86kB/s    0:00:00 (xfer#259, to-check=1000/330595)
+simple/djads/
+simple/djads/index.html
+           0   0%    0.00kB/s    0:00:00           130 100%  126.95kB/s    0:00:00 (xfer#260, to-check=1000/330795)
+simple/django-auth-policy/
+simple/django-auth-policy/index.html
+           0   0%    0.00kB/s    0:00:00           330 100%  322.27kB/s    0:00:00 (xfer#261, to-check=1000/331017)
+simple/django-axes/
+simple/django-axes/index.html
+           0   0%    0.00kB/s    0:00:00          6148 100%    5.11kB/s    0:00:01 (xfer#262, to-check=1000/331050)
+simple/django-custom-field/
+simple/django-custom-field/index.html
+           0   0%    0.00kB/s    0:00:00          1755 100%    1.67MB/s    0:00:00 (xfer#263, to-check=1000/331523)
+simple/django-dash/
+simple/django-dash/index.html
+           0   0%    0.00kB/s    0:00:00           609 100%    4.65kB/s    0:00:00 (xfer#264, to-check=1000/331536)
+simple/django-jquery-tablesorter/
+simple/django-jquery-tablesorter/index.html
+           0   0%    0.00kB/s    0:00:00           371 100%  362.30kB/s    0:00:00 (xfer#265, to-check=1000/332390)
+simple/django-libs/
+simple/django-libs/index.html
+           0   0%    0.00kB/s    0:00:00         12029 100%   11.47MB/s    0:00:00 (xfer#266, to-check=1000/332479)
+simple/django-ostinato/
+simple/django-ostinato/index.html
+           0   0%    0.00kB/s    0:00:00          6885 100%    6.57MB/s    0:00:00 (xfer#267, to-check=1000/332960)
+simple/django-summernote/
+simple/django-summernote/index.html
+           0   0%    0.00kB/s    0:00:00          2604 100%    2.48MB/s    0:00:00 (xfer#268, to-check=1000/333932)
+simple/django-swingers/
+simple/django-swingers/index.html
+           0   0%    0.00kB/s    0:00:00           822 100%  802.73kB/s    0:00:00 (xfer#269, to-check=1000/333946)
+simple/django-transadmin/
+simple/django-transadmin/index.html
+           0   0%    0.00kB/s    0:00:00           154 100%  150.39kB/s    0:00:00 (xfer#270, to-check=1000/334134)
+simple/dood/
+simple/dood/index.html
+           0   0%    0.00kB/s    0:00:00           554 100%  541.02kB/s    0:00:00 (xfer#271, to-check=1000/334928)
+simple/elpy/
+simple/elpy/index.html
+           0   0%    0.00kB/s    0:00:00          1101 100%    1.05MB/s    0:00:00 (xfer#272, to-check=1000/335420)
+simple/eppy/
+simple/eppy/index.html
+           0   0%    0.00kB/s    0:00:00           536 100%  523.44kB/s    0:00:00 (xfer#273, to-check=1000/335573)
+simple/fbu/
+simple/fbu/index.html
+           0   0%    0.00kB/s    0:00:00           412 100%  402.34kB/s    0:00:00 (xfer#274, to-check=1000/336006)
+simple/gsh/
+simple/gu-django-multihost/
+simple/gu-django-multihost/index.html
+           0   0%    0.00kB/s    0:00:00           339 100%  331.05kB/s    0:00:00 (xfer#275, to-check=1000/337702)
+simple/halite/
+simple/halite/index.html
+           0   0%    0.00kB/s    0:00:00          1842 100%    1.76MB/s    0:00:00 (xfer#276, to-check=1000/337794)
+simple/hiveary-agent/
+simple/hiveary-agent/index.html
+           0   0%    0.00kB/s    0:00:00           635 100%  620.12kB/s    0:00:00 (xfer#277, to-check=1000/338058)
+simple/imglib/
+simple/imglib/index.html
+           0   0%    0.00kB/s    0:00:00           270 100%  263.67kB/s    0:00:00 (xfer#278, to-check=1000/338562)
+simple/ipkg/
+simple/ipkg/index.html
+           0   0%    0.00kB/s    0:00:00           962 100%  939.45kB/s    0:00:00 (xfer#279, to-check=1000/338890)
+simple/isso/
+simple/isso/index.html
+           0   0%    0.00kB/s    0:00:00           932 100%  910.16kB/s    0:00:00 (xfer#280, to-check=1000/339018)
+simple/kaaedit/
+simple/kaaedit/index.html
+           0   0%    0.00kB/s    0:00:00          1439 100%    1.37MB/s    0:00:00 (xfer#281, to-check=1000/339727)
+simple/kotti_contactform/
+simple/kotti_contactform/index.html
+           0   0%    0.00kB/s    0:00:00          6426 100%    6.13MB/s    0:00:00 (xfer#282, to-check=1000/339918)
+simple/kpages/
+simple/kpages/index.html
+           0   0%    0.00kB/s    0:00:00           700  24%    0.67kB/s    0:00:03          2841 100%    2.70kB/s    0:00:01 (xfer#283, to-check=1000/339955)
+simple/leo/
+simple/leo/index.html
+           0   0%    0.00kB/s    0:00:00           436 100%  425.78kB/s    0:00:00 (xfer#284, to-check=1000/340242)
+simple/loggerclient/
+simple/loggerclient/index.html
+           0   0%    0.00kB/s    0:00:00           464 100%  453.12kB/s    0:00:00 (xfer#285, to-check=1000/340622)
+simple/mapclient/
+simple/mapclient/index.html
+           0   0%    0.00kB/s    0:00:00           291 100%  284.18kB/s    0:00:00 (xfer#286, to-check=1000/340990)
+simple/minimalKB/
+simple/minimalKB/index.html
+           0   0%    0.00kB/s    0:00:00           432 100%  421.88kB/s    0:00:00 (xfer#287, to-check=1000/341518)
+simple/mistool/
+simple/mistool/index.html
+           0   0%    0.00kB/s    0:00:00          1839 100%    1.75MB/s    0:00:00 (xfer#288, to-check=1000/341574)
+simple/murano-metadataclient/
+simple/murano-metadataclient/index.html
+           0   0%    0.00kB/s    0:00:00           580 100%  566.41kB/s    0:00:00 (xfer#289, to-check=1000/342097)
+simple/nytimes/
+simple/nytimes/index.html
+           0   0%    0.00kB/s    0:00:00           275 100%  268.55kB/s    0:00:00 (xfer#290, to-check=1000/343001)
+simple/penguinist/
+simple/penguinist/index.html
+           0   0%    0.00kB/s    0:00:00           316 100%  308.59kB/s    0:00:00 (xfer#291, to-check=1000/344008)
+simple/periscope_daemon/
+simple/periscope_daemon/index.html
+           0   0%    0.00kB/s    0:00:00           872 100%  851.56kB/s    0:00:00 (xfer#292, to-check=1000/344041)
+simple/pkgwat.cli/index.html
+           0   0%    0.00kB/s    0:00:00          1490 100%    1.42MB/s    0:00:00 (xfer#293, to-check=1000/344354)
+simple/pyarmor/
+simple/pyarmor/index.html
+           0   0%    0.00kB/s    0:00:00           134 100%  130.86kB/s    0:00:00 (xfer#294, to-check=1000/345661)
+simple/pyaxon/
+simple/pyaxon/index.html
+           0   0%    0.00kB/s    0:00:00          2080 100%    1.52kB/s    0:00:01 (xfer#295, to-check=1000/345691)
+simple/pyelasticsearch/
+simple/pyelasticsearch/index.html
+           0   0%    0.00kB/s    0:00:00          3422 100%    3.26MB/s    0:00:00 (xfer#296, to-check=1000/346019)
+simple/pykb/
+simple/pykb/index.html
+           0   0%    0.00kB/s    0:00:00           260 100%  253.91kB/s    0:00:00 (xfer#297, to-check=1000/346385)
+simple/pymc/
+simple/pymc/index.html
+           0   0%    0.00kB/s    0:00:00          2268 100%    2.16MB/s    0:00:00 (xfer#298, to-check=1000/346542)
+simple/pymorphy2-dicts/
+simple/pymorphy2-dicts/index.html
+           0   0%    0.00kB/s    0:00:00         10277 100%    9.80MB/s    0:00:00 (xfer#299, to-check=1000/346604)
+simple/pynesim/
+simple/pynesim/index.html
+           0   0%    0.00kB/s    0:00:00           283 100%  276.37kB/s    0:00:00 (xfer#300, to-check=1000/346641)
+simple/pypkg/
+simple/pypkg/index.html
+           0   0%    0.00kB/s    0:00:00           529 100%  516.60kB/s    0:00:00 (xfer#301, to-check=1000/346846)
+simple/pyprintflow2/
+simple/pyprintflow2/index.html
+           0   0%    0.00kB/s    0:00:00           700   8%    0.49kB/s    0:00:16          8696 100%    6.04kB/s    0:00:01 (xfer#302, to-check=1000/346885)
+simple/pyramid_hsts/
+simple/pyramid_hsts/index.html
+           0   0%    0.00kB/s    0:00:00           616 100%  601.56kB/s    0:00:00 (xfer#303, to-check=1000/347012)
+simple/pyramid_postmark/
+simple/pyramid_postmark/index.html
+           0   0%    0.00kB/s    0:00:00           832 100%  812.50kB/s    0:00:00 (xfer#304, to-check=1000/347040)
+simple/python-dateutil/
+simple/python-dateutil/index.html
+           0   0%    0.00kB/s    0:00:00          2034 100%    1.94MB/s    0:00:00 (xfer#305, to-check=1000/347603)
+simple/python-liblockfile/
+simple/python-liblockfile/index.html
+           0   0%    0.00kB/s    0:00:00           330 100%  322.27kB/s    0:00:00 (xfer#306, to-check=1000/347769)
+simple/python2-pythondialog/
+simple/python2-pythondialog/index.html
+           0   0%    0.00kB/s    0:00:00           530 100%  517.58kB/s    0:00:00 (xfer#307, to-check=1000/348089)
+simple/pythondialog/
+simple/pythondialog/index.html
+           0   0%    0.00kB/s    0:00:00          2064 100%    2.25kB/s    0:00:00 (xfer#308, to-check=1000/348122)
+simple/pytoolbox/
+simple/pytoolbox/index.html
+           0   0%    0.00kB/s    0:00:00           627 100%    0.41kB/s    0:00:01 (xfer#309, to-check=1000/348161)
+simple/quoter/
+simple/quoter/index.html
+           0   0%    0.00kB/s    0:00:00          4302 100%    4.10MB/s    0:00:00 (xfer#310, to-check=1000/348584)
+simple/rux/
+simple/rux/index.html
+           0   0%    0.00kB/s    0:00:00           924 100%  902.34kB/s    0:00:00 (xfer#311, to-check=1000/349832)
+simple/ryu/
+simple/ryu/index.html
+           0   0%    0.00kB/s    0:00:00           700   7%    0.58kB/s    0:00:15          9873 100%    8.25kB/s    0:00:01 (xfer#312, to-check=1000/349840)
+simple/service-assemblage/
+simple/service-assemblage/index.html
+           0   0%    0.00kB/s    0:00:00           507 100%  495.12kB/s    0:00:00 (xfer#313, to-check=1000/350393)
+simple/service-cdm/
+simple/service-cdm/index.html
+           0   0%    0.00kB/s    0:00:00           451 100%    3.73kB/s    0:00:00 (xfer#314, to-check=1000/350394)
+simple/service-gateway/
+simple/service-gateway/index.html
+           0   0%    0.00kB/s    0:00:00           483 100%    3.04kB/s    0:00:00 (xfer#315, to-check=1000/350396)
+simple/sloth-ci/
+simple/sloth-ci/index.html
+           0   0%    0.00kB/s    0:00:00          2480 100%    2.37MB/s    0:00:00 (xfer#316, to-check=1000/350925)
+simple/sockjs-cyclone/
+simple/sockjs-cyclone/index.html
+           0   0%    0.00kB/s    0:00:00          1208 100%    1.15MB/s    0:00:00 (xfer#317, to-check=1000/351094)
+simple/solve/
+simple/solve/index.html
+           0   0%    0.00kB/s    0:00:00           825 100%  805.66kB/s    0:00:00 (xfer#318, to-check=1000/351135)
+simple/systematic/
+simple/systematic/index.html
+           0   0%    0.00kB/s    0:00:00           579 100%  565.43kB/s    0:00:00 (xfer#319, to-check=1000/352134)
+simple/taal/
+simple/taal/index.html
+           0   0%    0.00kB/s    0:00:00          1488 100%    3.63kB/s    0:00:00 (xfer#320, to-check=1000/352145)
+simple/tarantool-queue/
+simple/tarantool-queue/index.html
+           0   0%    0.00kB/s    0:00:00           814 100%  794.92kB/s    0:00:00 (xfer#321, to-check=1000/352213)
+simple/tendenci/
+simple/tendenci/index.html
+           0   0%    0.00kB/s    0:00:00         55837 100%   53.25MB/s    0:00:00 (xfer#322, to-check=1000/352379)
+simple/tmuxp/
+simple/tmuxp/index.html
+           0   0%    0.00kB/s    0:00:00          5036 100%    4.80MB/s    0:00:00 (xfer#323, to-check=1000/352944)
+simple/toc/
+simple/toc/index.html
+           0   0%    0.00kB/s    0:00:00          1190 100%    2.50kB/s    0:00:00 (xfer#324, to-check=1000/352955)
+simple/todotxt-machine/
+simple/todotxt-machine/index.html
+           0   0%    0.00kB/s    0:00:00          1686 100%    1.56kB/s    0:00:01 (xfer#325, to-check=1000/352965)
+simple/tomcom.plone.easyvoc/
+simple/tomcom.plone.easyvoc/index.html
+           0   0%    0.00kB/s    0:00:00           342 100%  333.98kB/s    0:00:00 (xfer#326, to-check=1000/352983)
+simple/toolshed/
+simple/toolshed/index.html
+           0   0%    0.00kB/s    0:00:00          6244 100%    6.65kB/s    0:00:00 (xfer#327, to-check=1000/353006)
+simple/transporter/
+simple/transporter/index.html
+           0   0%    0.00kB/s    0:00:00           628 100%  613.28kB/s    0:00:00 (xfer#328, to-check=1000/353192)
+simple/tsquare/
+simple/tsquare/index.html
+           0   0%    0.00kB/s    0:00:00           416 100%  406.25kB/s    0:00:00 (xfer#329, to-check=1000/353418)
+simple/tuskar-ui/
+simple/tuskar-ui/index.html
+           0   0%    0.00kB/s    0:00:00           289 100%  282.23kB/s    0:00:00 (xfer#330, to-check=1000/353478)
+simple/tuskar/
+simple/tuskar/index.html
+           0   0%    0.00kB/s    0:00:00           274 100%  267.58kB/s    0:00:00 (xfer#331, to-check=1000/353479)
+simple/ufo2otf/
+simple/ufo2otf/index.html
+           0   0%    0.00kB/s    0:00:00          2046 100%    1.95MB/s    0:00:00 (xfer#332, to-check=1000/353861)
+simple/ultimatum/
+simple/ultimatum/index.html
+           0   0%    0.00kB/s    0:00:00           224 100%    0.38kB/s    0:00:00 (xfer#333, to-check=1000/353885)
+simple/valhalla/
+simple/valhalla/index.html
+           0   0%    0.00kB/s    0:00:00          1770 100%    1.69MB/s    0:00:00 (xfer#334, to-check=1000/354120)
+simple/warehouse/
+simple/xlwt-future/
+simple/xlwt-future/index.html
+           0   0%    0.00kB/s    0:00:00           299 100%  291.99kB/s    0:00:00 (xfer#335, to-check=1000/355152)
+
+sent 125486 bytes  received 84061024 bytes  11445.38 bytes/sec
+total size is 64441732580  speedup is 765.46

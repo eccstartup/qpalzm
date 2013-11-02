@@ -1,0 +1,54 @@
+Open Source Mirror of Tsinghua University
+
+This mirror site is supported by Network Research Center of Tsinghua University
+at Tsinghua University, Beijing, PRC, and maintained by Tsinghua University
+Network Administrators (TUNA). 
+
+Please email questions or suggestions to 
+thu-opensource-mirror-admin@googlegroups.com
+
+The site contains software repositories of several GNU/Linux distributions, and
+some other open source softwares.
+
+Currently, we have 2 IPs:
+    166.111.8.205 -- TUNET (Tsinghua University Network)
+    2001:da8:200:102:250:56ff:febf:5bf8 -- TUNET (Tsinghua University Network)
+
+The bandwidth is currently limited to 100Mbps. Note that we are in a process
+of migration therefor the IP addresses may change anytime. Always access this
+site with the domain name mirrors.tuna.tsinghua.edu.cn.
+
+You can check out modules listed below.
+======================================
+
+
+receiving incremental file list
+./
+index.html
+           0   0%    0.00kB/s    0:00:00         12486 100%   11.91MB/s    0:00:00 (xfer#1, to-check=2917/2943)
+sorted_howtos.html
+           0   0%    0.00kB/s    0:00:00          3425 100%    3.27MB/s    0:00:00 (xfer#2, to-check=2904/2943)
+sorted_howtos_full.html
+           0   0%    0.00kB/s    0:00:00        330297 100%  157.50MB/s    0:00:00 (xfer#3, to-check=2903/2943)
+sorted_howtos_quick.html
+           0   0%    0.00kB/s    0:00:00        218076 100%  223.94kB/s    0:00:00 (xfer#4, to-check=2902/2943)
+sorted_howtos_title.html
+           0   0%    0.00kB/s    0:00:00        330296 100%  338.46kB/s    0:00:00 (xfer#5, to-check=2901/2943)
+timestamp.txt
+           0   0%    0.00kB/s    0:00:00            29 100%    0.03kB/s    0:00:00 (xfer#6, to-check=2899/2943)
+HOWTO/archived/index.html
+           0   0%    0.00kB/s    0:00:00          3761 100%    3.59MB/s    0:00:00 (xfer#7, to-check=1031/8664)
+HOWTO/html_single/index.html
+           0   0%    0.00kB/s    0:00:00         12116 100%   11.55MB/s    0:00:00 (xfer#8, to-check=1293/9335)
+HOWTO/pdf/index.html
+           0   0%    0.00kB/s    0:00:00         37746 100%   36.00MB/s    0:00:00 (xfer#9, to-check=1054/10385)
+HOWTO/text/index.html
+           0   0%    0.00kB/s    0:00:00         34441 100%   32.85MB/s    0:00:00 (xfer#10, to-check=1015/10820)
+howto.d/
+howto.d/sorted_howtos.gz
+           0   0%    0.00kB/s    0:00:00         17373 100%   16.57MB/s    0:00:00 (xfer#11, to-check=1216/50636)
+pluckerdb/index.html
+           0   0%    0.00kB/s    0:00:00         40801 100%   38.91MB/s    0:00:00 (xfer#12, to-check=1057/51686)
+
+sent 16084 bytes  received 1888733 bytes  640.60 bytes/sec
+total size is 3738430138  speedup is 1962.62
