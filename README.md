@@ -14,6 +14,8 @@ squid3
 
 configuration files for squid3
 
+search `localnet` for details
+
 mirror
 ======
 
